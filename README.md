@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/banner.png" alt="Digital Agents Meet World Models: A Survey" width="100%"/>
-</p>
-
 # Awesome World Models for Digital Agents
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
@@ -20,7 +16,7 @@ Papers are grouped by domain and listed in reverse chronological order within ea
 - [Benchmarks \& Environments](#benchmarks--environments)
 - [Datasets](#datasets)
 - [Related Surveys](#related-surveys)
-- [Welcome to Contribute](#welcome-to-contribute)
+- [Contributing](#contributing)
 - [Citation](#citation)
 
 ## Taxonomy Overview
@@ -131,6 +127,8 @@ World models for code generation, software engineering, and executable environme
 
 ## Benchmarks & Environments
 
+Representative interactive benchmarks and environments for evaluating world models in digital-agent settings, organized by domain. Descriptions highlight the primary predictive difficulty each environment introduces.
+
 ### Games
 
 + [**PlanCraft**](https://arxiv.org/abs/2412.21033) (arXiv, 2024) — Structured planning over branching crafting dependencies. [[GitHub]](https://github.com/gautierdag/plancraft)
@@ -188,6 +186,8 @@ World models for code generation, software engineering, and executable environme
 
 ## Datasets
 
+Datasets used to train and evaluate digital-agent world models, organized by supervision type and the role each category plays in the learning pipeline.
+
 | Supervision Type | Representative Datasets | Role in World Models |
 |:-----------------|:-----------------------|:---------------------|
 | **Action-conditioned transitions** | [Mind2Web](https://arxiv.org/abs/2306.06070), [Android in the Wild](https://arxiv.org/abs/2307.10088), [Android Control](https://arxiv.org/abs/2406.03679), [MobileWorldBench](https://arxiv.org/abs/2512.14014) | Semantic UI dynamics, DOM/screenshot deltas, action-conditioned next-state prediction |
@@ -198,6 +198,8 @@ World models for code generation, software engineering, and executable environme
 | **Synthetic and simulated trajectories** | [WebWorld](https://arxiv.org/abs/2602.14721), [Agent World Model](https://arxiv.org/abs/2602.10090) | Expanding branching coverage, surfacing rare or risky states, planning robustness |
 
 ## Related Surveys
+
+Surveys on world models, autonomous agents, and related topics that provide complementary perspectives to our work.
 
 + [**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**](https://arxiv.org/abs/2604.22748) (arXiv, 2026)
 + [**Learning to Model the World: A Survey of World Models in Artificial Intelligence**](https://www.preprints.org/manuscript/202603.0739) (Preprints, 2026)
@@ -213,16 +215,16 @@ World models for code generation, software engineering, and executable environme
 + [**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**](https://arxiv.org/abs/2405.03520) (arXiv, 2024)
 + [**A Survey on Large Language Model Based Autonomous Agents**](https://arxiv.org/abs/2308.11432) (Frontiers, 2023)
 
-## Welcome to Contribute
+## Contributing
 
-**We welcome contributions!** This project is actively maintained. If you know a paper or benchmark that should be listed, please open an issue or submit a pull request.
+**We welcome contributions!** This project is actively maintained. If you know a paper or benchmark that should be listed, please [open an issue](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents/issues/new?template=add_paper.yml) or submit a pull request.
 
 When submitting, please include:
 - **Title** and **paper URL** (arXiv or publication link)
 - **Venue** and **year**
 - **Target section** (Games / Web & GUI / Tool Use / Code / Benchmarks)
 - **One-line summary** of the contribution
-- **Code URL** (optional, for GitHub stars badge)
+- **Code URL** (optional, for GitHub link)
 
 ## Citation
 

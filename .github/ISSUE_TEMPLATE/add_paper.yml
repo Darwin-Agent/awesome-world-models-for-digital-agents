@@ -33,6 +33,7 @@ body:
       description: Which section should this paper be listed under?
       options:
         - Games
+        - World Model Theory & Analysis
         - Web & GUI
         - Tool Use
         - Code
