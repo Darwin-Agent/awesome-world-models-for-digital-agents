@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figure/banner.png" alt="Digital Agents Meet World Models: A Survey" width="100%"/>
+</p>
+
 # Awesome World Models for Digital Agents
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
