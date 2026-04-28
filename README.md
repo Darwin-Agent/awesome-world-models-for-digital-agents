@@ -227,18 +227,18 @@ World models for code generation, software engineering, and executable environme
 
 ## Related Surveys
 
-+ [**Dong et al.**](https://www.preprints.org/manuscript/202603.0739) (Preprints, 2026) — Learning to model the world: world models in AI.
-+ [**Tan et al.**](https://www.techrxiv.org/doi/10.36227/techrxiv.176948355.54623875) (TechRxiv, 2026) — Towards generalist embodied AI: world models for VLA agents.
-+ [**Bai et al.**](https://arxiv.org/abs/2510.20668) (arXiv, 2025) — From masks to worlds: a hitchhiker's guide to world models.
-+ [**Kong et al.**](https://arxiv.org/abs/2509.07996) (arXiv, 2025) — 3D and 4D world modeling.
-+ [**Li et al.**](https://arxiv.org/abs/2510.16732) (arXiv, 2025) — Comprehensive survey on world models for embodied AI.
-+ [**Long et al.**](https://arxiv.org/abs/2507.00917) (arXiv, 2025) — Learning embodied intelligence from physical simulators and world models.
-+ [**Zhang et al.**](https://arxiv.org/abs/2511.02097) (arXiv, 2025) — Robotic manipulation world models.
-+ [**Tu et al.**](https://arxiv.org/abs/2502.10498) (arXiv, 2025) — Autonomous driving world models.
-+ [**Feng et al.**](https://arxiv.org/abs/2501.11260) (arXiv, 2025) — Survey of world models for autonomous driving.
-+ [**Ding et al.**](https://arxiv.org/abs/2411.14499) (ACM CSUR, 2025) — Understanding world or predicting future? comprehensive survey.
-+ [**Zhu et al.**](https://arxiv.org/abs/2405.03520) (arXiv, 2024) — Is Sora a world simulator? general world models and beyond.
-+ [**Wang et al.**](https://arxiv.org/abs/2308.11432) (Frontiers, 2023) — Survey on LLM-based autonomous agents.
++ [**Learning to Model the World: A Survey of World Models in Artificial Intelligence**](https://www.preprints.org/manuscript/202603.0739) (Preprints, 2026)
++ [**Towards Generalist Embodied AI: A Survey on World Models for VLA Agents**](https://www.techrxiv.org/doi/10.36227/techrxiv.176948355.54623875) (TechRxiv, 2026)
++ [**From Masks to Worlds: A Hitchhiker's Guide to World Models**](https://arxiv.org/abs/2510.20668) (arXiv, 2025)
++ [**3D and 4D World Modeling: A Survey**](https://arxiv.org/abs/2509.07996) (arXiv, 2025)
++ [**A Comprehensive Survey on World Models for Embodied AI**](https://arxiv.org/abs/2510.16732) (arXiv, 2025)
++ [**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**](https://arxiv.org/abs/2507.00917) (arXiv, 2025)
++ [**A Step Toward World Models: A Survey on Robotic Manipulation**](https://arxiv.org/abs/2511.02097) (arXiv, 2025)
++ [**The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**](https://arxiv.org/abs/2502.10498) (arXiv, 2025)
++ [**A Survey of World Models for Autonomous Driving**](https://arxiv.org/abs/2501.11260) (arXiv, 2025)
++ [**Understanding World or Predicting Future? A Comprehensive Survey of World Models**](https://arxiv.org/abs/2411.14499) (ACM CSUR, 2025)
++ [**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**](https://arxiv.org/abs/2405.03520) (arXiv, 2024)
++ [**A Survey on Large Language Model Based Autonomous Agents**](https://arxiv.org/abs/2308.11432) (Frontiers, 2023)
 
 ## Welcome to Contribute
 
