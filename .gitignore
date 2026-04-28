@@ -1,0 +1,32 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.suo
+*.sw?
+
+# Logs
+*.log
+
+# Temp files
+tmp/
+temp/
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+build/

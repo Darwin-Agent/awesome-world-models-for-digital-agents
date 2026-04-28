@@ -1,0 +1,78 @@
+name: Add a Paper
+description: Suggest a new paper for the Awesome List
+title: "[Paper]: <Title>"
+labels: ["paper"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your contribution! Please follow the format below.
+
+  - type: input
+    id: title
+    attributes:
+      label: Paper Title
+      description: The full title of the paper.
+      placeholder: e.g., "WebDreamer: Is Your LLM Secretly a World Model of the Internet?"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link (arXiv / PDF)
+      description: URL to the paper (preferably arXiv abstract page).
+      placeholder: https://arxiv.org/abs/2411.06559
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which section should this paper be listed under?
+      options:
+        - Games
+        - Web & GUI
+        - Tool Use
+        - Code
+        - Benchmarks & Environments
+        - Datasets
+        - Related Surveys
+    validations:
+      required: true
+
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and Year
+      description: Publication venue and year.
+      placeholder: e.g., ICLR, 2025
+    validations:
+      required: true
+
+  - type: input
+    id: summary
+    attributes:
+      label: One-Line Summary
+      description: A concise description of the paper's contribution.
+      placeholder: e.g., LLM web state simulation + tree search for planning.
+    validations:
+      required: true
+
+  - type: input
+    id: code
+    attributes:
+      label: Code Link (Optional)
+      description: GitHub URL if available.
+      placeholder: https://github.com/org/repo
+    validations:
+      required: false
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Additional Comments
+      description: Anything else you want to say? (e.g., why this paper is relevant, which subsection it belongs to)
+    validations:
+      required: false
