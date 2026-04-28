@@ -153,10 +153,10 @@ World models for tool-augmented agents, API interaction, and workflow systems.
 
 World models for code generation, software engineering, and executable environment modeling.
 
-+ [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Building software engineering agents in docker-free surrogate environments. [![Stars](https://img.shields.io/github/stars/RUCAIBox/SWE-World?style=flat&logo=github&color=181717)](https://github.com/RUCAIBox/SWE-World)
-+ [**CWM**](https://arxiv.org/abs/2510.02387) (arXiv, 2025) — Open-weights LLM for code generation with world models.
-+ [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by MCTS. [![Stars](https://img.shields.io/github/stars/nicoladainese96/code-world-models?style=flat&logo=github&color=181717)](https://github.com/nicoladainese96/code-world-models)
-+ [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code.
++ [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Building software engineering agents in docker-free environments. [![Stars](https://img.shields.io/github/stars/RUCAIBox/SWE-World?style=flat&logo=github&color=181717)](https://github.com/RUCAIBox/SWE-World)
++ [**CWM**](https://arxiv.org/abs/2510.02387) (arXiv, 2025) — Open-weights LLM for research on code generation with world models. [![Stars](https://img.shields.io/github/stars/facebookresearch/cwm?style=flat&logo=github&color=181717)](https://github.com/facebookresearch/cwm)
++ [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by Monte Carlo tree search. [![Stars](https://img.shields.io/github/stars/nicoladainese96/code-world-models?style=flat&logo=github&color=181717)](https://github.com/nicoladainese96/code-world-models)
++ [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code and interacting with the environment. [![Stars](https://img.shields.io/github/stars/haotang1995/WorldCoder?style=flat&logo=github&color=181717)](https://github.com/haotang1995/WorldCoder)
 
 ## Benchmarks & Environments
 
