@@ -104,8 +104,10 @@ World models for game environments, including classical model-based RL, visual g
 + [**Neuro-Symbolic Synergy**](https://arxiv.org/abs/2602.10480) (arXiv, 2026) — Neuro-symbolic synergy for interactive world modeling.
 + [**Current Agents Fail to Leverage WM**](https://arxiv.org/abs/2601.03905) (arXiv, 2026) — Negative evidence on agents using world models as foresight tools.
 + [**General Agents Contain World Models**](https://arxiv.org/abs/2506.02996) (ICML, 2025) — Theoretical result on world models in general agents.
++ [**LATS**](https://arxiv.org/abs/2310.05036) (ICML, 2024) — Language agent tree search unifying reasoning, acting, and planning.
 + [**LAW**](https://arxiv.org/abs/2312.05230) (arXiv, 2023) — Language models, agent models, and world models framework.
 + [**Tree of Thoughts**](https://arxiv.org/abs/2305.10601) (NeurIPS, 2023) — Deliberate problem solving with implicit future simulation.
++ [**LLM Guided Tree-of-Thought**](https://arxiv.org/abs/2305.08291) (arXiv, 2023) — Large language model guided tree-of-thought reasoning.
 + [**Reflexion**](https://arxiv.org/abs/2303.11366) (NeurIPS, 2023) — Language agents with verbal reinforcement learning.
 
 ## Web & GUI
@@ -125,14 +127,17 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 
 ### GUI — Desktop & Computer-Use
 
++ [**SafetyDrift**](https://arxiv.org/abs/2603.27148) (arXiv, 2026) — Predicting when AI agents cross the line before they actually do.
 + [**Computer-Using World Model**](https://arxiv.org/abs/2602.17365) (arXiv, 2026) — LLM-based UI state delta prediction for action search.
 + [**SafePred**](https://arxiv.org/abs/2602.01725) (arXiv, 2026) — Predictive guardrail for computer-using agents via world models.
 + [**ActionEngine**](https://arxiv.org/abs/2602.20502) (arXiv, 2026) — State machine memory for programmatic GUI agents.
 + [**NeuralOS**](https://arxiv.org/abs/2507.08800) (arXiv, 2025) — RNN + pixel diffusion for desktop GUI simulation. [![Stars](https://img.shields.io/github/stars/yuntian-group/neural-os?style=flat&logo=github&color=181717)](https://github.com/yuntian-group/neural-os)
++ [**Evolving in Tasks**](https://arxiv.org/abs/2508.04037) (arXiv, 2025) — Empowering MLLM as the computer use agent via task evolution.
 + [**R-WoM**](https://arxiv.org/abs/2510.11892) (arXiv, 2025) — Retrieval-augmented world model for computer-use agents.
 
 ### GUI — Mobile
 
++ [**GEBench**](https://arxiv.org/abs/2602.09007) (arXiv, 2026) — Benchmarking image generation models as GUI environments.
 + [**gWorld**](https://arxiv.org/abs/2602.01576) (arXiv, 2026) — VLM code rendering for mobile world simulation. [![Stars](https://img.shields.io/github/stars/trillion-labs/gWorld?style=flat&logo=github&color=181717)](https://github.com/trillion-labs/gWorld)
 + [**Code2World**](https://arxiv.org/abs/2602.09856) (arXiv, 2026) — GUI world model via renderable code generation. [![Stars](https://img.shields.io/github/stars/AMAP-ML/Code2World?style=flat&logo=github&color=181717)](https://github.com/AMAP-ML/Code2World)
 + [**MobileDreamer**](https://arxiv.org/abs/2601.04035) (arXiv, 2026) — Generative sketch world model for GUI agents.
@@ -142,15 +147,21 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 
 ### Cross-Domain GUI/Web
 
++ [**World Craft**](https://arxiv.org/abs/2601.09150) (arXiv, 2026) — Agentic framework to create visualizable worlds via text.
++ [**UI-Venus-1.5**](https://arxiv.org/abs/2602.09082) (arXiv, 2026) — Technical report on GUI agent foundation model.
++ [**UI-TARS**](https://arxiv.org/abs/2501.12326) (arXiv, 2025) — Pioneering automated GUI interaction with native agents.
 + [**SimuRA**](https://arxiv.org/abs/2507.23773) (arXiv, 2025) — World-model-driven simulative reasoning architecture for goal-oriented agents.
 + [**VAGEN**](https://arxiv.org/abs/2510.16907) (arXiv, 2025) — Reinforcing world model reasoning for multi-turn VLM agents.
 + [**EvoAgent**](https://arxiv.org/abs/2502.05907) (arXiv, 2025) — Self-evolving agent with continual world model for long-horizon tasks.
++ [**AutoGLM**](https://arxiv.org/abs/2411.00820) (arXiv, 2024) — Autonomous foundation agents for GUIs.
 + [**WorldGPT**](https://doi.org/10.1145/3664647.3681649) (ACM MM, 2024) — Empowering LLMs as multimodal world models.
 
 ## Tool Use
 
 World models for tool-augmented agents, API interaction, and workflow systems.
 
++ [**AgenTRIM**](https://arxiv.org/abs/2601.12449) (arXiv, 2026) — Tool risk mitigation for agentic AI.
++ [**From Failure to Mastery**](https://arxiv.org/abs/2601.01498) (arXiv, 2026) — Generating hard samples for tool-use agents.
 + [**Agent World Model**](https://arxiv.org/abs/2602.10090) (arXiv, 2026) — Infinity synthetic environments for agentic RL. [![Stars](https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model?style=flat&logo=github&color=181717)](https://github.com/Snowflake-Labs/agent-world-model)
 + [**RWML**](https://arxiv.org/abs/2602.05842) (arXiv, 2026) — Reinforcement world model learning for LLM-based agents.
 + [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Benchmark for bringing world models to enterprise systems. [![Stars](https://img.shields.io/github/stars/Skyfall-Research/world-of-workflows?style=flat&logo=github&color=181717)](https://github.com/Skyfall-Research/world-of-workflows)
@@ -164,6 +175,7 @@ World models for code generation, software engineering, and executable environme
 
 + [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Building software engineering agents in docker-free surrogate environments. [![Stars](https://img.shields.io/github/stars/RUCAIBox/SWE-World?style=flat&logo=github&color=181717)](https://github.com/RUCAIBox/SWE-World)
 + [**CWM**](https://arxiv.org/abs/2510.02387) (arXiv, 2025) — Open-weights LLM for code generation with world models.
++ [**SWE-agent**](https://arxiv.org/abs/2405.15793) (arXiv, 2024) — Agent-computer interfaces enable automated software engineering. [![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=flat&logo=github&color=181717)](https://github.com/princeton-nlp/SWE-agent)
 + [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by MCTS. [![Stars](https://img.shields.io/github/stars/nicoladainese96/code-world-models?style=flat&logo=github&color=181717)](https://github.com/nicoladainese96/code-world-models)
 + [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code.
 
