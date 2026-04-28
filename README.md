@@ -162,68 +162,69 @@ World models for code generation, software engineering, and executable environme
 
 ### Games
 
-+ [**Atari 200M**](https://doi.org/10.1038/nature14236) (Nature, 2015) — Visual dynamics modeling under long-horizon control. [![Stars](https://img.shields.io/github/stars/Farama-Foundation/Arcade-Learning-Environment?style=flat&logo=github&color=181717)](https://github.com/Farama-Foundation/Arcade-Learning-Environment)
-+ [**Atari 100k**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — Sample-efficient rollout learning from limited data. [![Stars](https://img.shields.io/github/stars/YeWR/EfficientZero?style=flat&logo=github&color=181717)](https://github.com/YeWR/EfficientZero)
-+ [**BabyAI**](https://arxiv.org/abs/1810.08272) (ICLR, 2019) — Grounded language-conditioned planning. [![Stars](https://img.shields.io/github/stars/mila-iqia/babyai?style=flat&logo=github&color=181717)](https://github.com/mila-iqia/babyai)
-+ [**SMAC**](https://arxiv.org/abs/1902.04043) (AAMAS, 2019) — Multi-agent state evolution and coordination-sensitive rollout. [![Stars](https://img.shields.io/github/stars/oxwhirl/smac?style=flat&logo=github&color=181717)](https://github.com/oxwhirl/smac)
-+ [**SMACv2**](https://arxiv.org/abs/2212.07489) (arXiv, 2022) — Harder stochastic branching and robust multi-agent rollout. [![Stars](https://img.shields.io/github/stars/oxwhirl/smacv2?style=flat&logo=github&color=181717)](https://github.com/oxwhirl/smacv2)
-+ [**Procgen**](https://arxiv.org/abs/1912.01588) (ICML, 2020) — Generalization under procedurally varying dynamics. [![Stars](https://img.shields.io/github/stars/openai/procgen?style=flat&logo=github&color=181717)](https://github.com/openai/procgen)
-+ [**NetHack**](https://arxiv.org/abs/2006.13760) (NeurIPS, 2020) — Partial observability and long-horizon symbolic-visual state tracking. [![Stars](https://img.shields.io/github/stars/NetHack-LE/nle?style=flat&logo=github&color=181717)](https://github.com/NetHack-LE/nle)
-+ [**MiniHack**](https://arxiv.org/abs/2109.13202) (arXiv, 2021) — Modular long-horizon transition modeling across diverse tasks. [![Stars](https://img.shields.io/github/stars/NetHack-LE/minihack?style=flat&logo=github&color=181717)](https://github.com/NetHack-LE/minihack)
-+ [**Crafter**](https://arxiv.org/abs/2109.06780) (arXiv, 2021) — Persistent survival-state dynamics and open-ended progression. [![Stars](https://img.shields.io/github/stars/danijar/crafter?style=flat&logo=github&color=181717)](https://github.com/danijar/crafter)
-+ [**Minigrid**](https://arxiv.org/abs/2306.13831) (arXiv, 2023) — Compact planning under partially observable gridworld dynamics. [![Stars](https://img.shields.io/github/stars/Farama-Foundation/Minigrid?style=flat&logo=github&color=181717)](https://github.com/Farama-Foundation/Minigrid)
-+ [**TextWorld**](https://arxiv.org/abs/1806.11532) (CGW@IJCAI, 2018) — Long-horizon symbolic transitions and command-conditioned dynamics. [![Stars](https://img.shields.io/github/stars/Microsoft/TextWorld?style=flat&logo=github&color=181717)](https://github.com/Microsoft/TextWorld)
-+ [**ALFWorld**](https://arxiv.org/abs/2010.03768) (ICLR, 2021) — Multi-step symbolic planning with delayed consequences. [![Stars](https://img.shields.io/github/stars/alfworld/alfworld?style=flat&logo=github&color=181717)](https://github.com/alfworld/alfworld)
-+ [**ScienceWorld**](https://arxiv.org/abs/2203.07540) (EMNLP, 2022) — Causal reasoning over structured textual world state. [![Stars](https://img.shields.io/github/stars/allenai/ScienceWorld?style=flat&logo=github&color=181717)](https://github.com/allenai/ScienceWorld)
-+ [**PlanCraft**](https://arxiv.org/abs/2412.21033) (arXiv, 2024) — Structured planning over branching crafting dependencies. [![Stars](https://img.shields.io/github/stars/gautierdag/plancraft?style=flat&logo=github&color=181717)](https://github.com/gautierdag/plancraft)
++ [**Atari 200M**](https://doi.org/10.1038/nature14236) (Nature, 2015) — Visual dynamics modeling under long-horizon control. [[GitHub]](https://github.com/Farama-Foundation/Arcade-Learning-Environment)
++ [**Atari 100k**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — Sample-efficient rollout learning from limited data. [[GitHub]](https://github.com/YeWR/EfficientZero)
++ [**BabyAI**](https://arxiv.org/abs/1810.08272) (ICLR, 2019) — Grounded language-conditioned planning. [[GitHub]](https://github.com/mila-iqia/babyai)
++ [**SMAC**](https://arxiv.org/abs/1902.04043) (AAMAS, 2019) — Multi-agent state evolution and coordination-sensitive rollout. [[GitHub]](https://github.com/oxwhirl/smac)
++ [**SMACv2**](https://arxiv.org/abs/2212.07489) (arXiv, 2022) — Harder stochastic branching and robust multi-agent rollout. [[GitHub]](https://github.com/oxwhirl/smacv2)
++ [**Procgen**](https://arxiv.org/abs/1912.01588) (ICML, 2020) — Generalization under procedurally varying dynamics. [[GitHub]](https://github.com/openai/procgen)
++ [**NetHack**](https://arxiv.org/abs/2006.13760) (NeurIPS, 2020) — Partial observability and long-horizon symbolic-visual state tracking. [[GitHub]](https://github.com/NetHack-LE/nle)
++ [**MiniHack**](https://arxiv.org/abs/2109.13202) (arXiv, 2021) — Modular long-horizon transition modeling across diverse tasks. [[GitHub]](https://github.com/NetHack-LE/minihack)
++ [**Crafter**](https://arxiv.org/abs/2109.06780) (arXiv, 2021) — Persistent survival-state dynamics and open-ended progression. [[GitHub]](https://github.com/danijar/crafter)
++ [**Minigrid**](https://arxiv.org/abs/2306.13831) (arXiv, 2023) — Compact planning under partially observable gridworld dynamics. [[GitHub]](https://github.com/Farama-Foundation/Minigrid)
++ [**TextWorld**](https://arxiv.org/abs/1806.11532) (CGW@IJCAI, 2018) — Long-horizon symbolic transitions and command-conditioned dynamics. [[GitHub]](https://github.com/Microsoft/TextWorld)
++ [**ALFWorld**](https://arxiv.org/abs/2010.03768) (ICLR, 2021) — Multi-step symbolic planning with delayed consequences. [[GitHub]](https://github.com/alfworld/alfworld)
++ [**ScienceWorld**](https://arxiv.org/abs/2203.07540) (EMNLP, 2022) — Causal reasoning over structured textual world state. [[GitHub]](https://github.com/allenai/ScienceWorld)
++ [**PlanCraft**](https://arxiv.org/abs/2412.21033) (arXiv, 2024) — Structured planning over branching crafting dependencies. [[GitHub]](https://github.com/gautierdag/plancraft)
 
 ### Web & GUI
 
-+ [**World of Bits**](https://proceedings.mlr.press/v70/shi17a.html) (ICML, 2017) — Open-domain web-state transitions under interface interaction. [![Stars](https://img.shields.io/github/stars/stanfordnlp/wob?style=flat&logo=github&color=181717)](https://github.com/stanfordnlp/wob)
-+ [**MiniWoB++**](https://arxiv.org/abs/1802.08802) (arXiv, 2018) — Short-horizon UI changes with typed web actions. [![Stars](https://img.shields.io/github/stars/Farama-Foundation/miniwob-plusplus?style=flat&logo=github&color=181717)](https://github.com/Farama-Foundation/miniwob-plusplus)
-+ [**WebShop**](https://arxiv.org/abs/2207.01206) (NeurIPS, 2022) — Workflow branching and latent task progress in shopping interfaces. [![Stars](https://img.shields.io/github/stars/princeton-nlp/WebShop?style=flat&logo=github&color=181717)](https://github.com/princeton-nlp/WebShop)
-+ [**WebArena**](https://arxiv.org/abs/2307.13854) (ICLR, 2024) — Semantic UI transitions under realistic web workflows. [![Stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=flat&logo=github&color=181717)](https://github.com/web-arena-x/webarena)
-+ [**VisualWebArena**](https://arxiv.org/abs/2401.13649) (arXiv, 2024) — Multimodal web-state prediction with visual-semantic grounding. [![Stars](https://img.shields.io/github/stars/web-arena-x/visualwebarena?style=flat&logo=github&color=181717)](https://github.com/web-arena-x/visualwebarena)
-+ [**TheAgentCompany**](https://arxiv.org/abs/2412.14161) (arXiv, 2024) — Enterprise-style browser workflows and hidden application logic. [![Stars](https://img.shields.io/github/stars/TheAgentCompany/TheAgentCompany?style=flat&logo=github&color=181717)](https://github.com/TheAgentCompany/TheAgentCompany)
-+ [**OSWorld**](https://arxiv.org/abs/2404.07972) (arXiv, 2024) — Open-ended computer-use transitions across apps and OS state. [![Stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=flat&logo=github&color=181717)](https://github.com/xlang-ai/OSWorld)
-+ [**WindowsAgentArena**](https://arxiv.org/abs/2409.08264) (arXiv, 2024) — Real multi-app state coordination under desktop interaction. [![Stars](https://img.shields.io/github/stars/microsoft/WindowsAgentArena?style=flat&logo=github&color=181717)](https://github.com/microsoft/WindowsAgentArena)
-+ [**OmniACT**](https://arxiv.org/abs/2402.17553) (arXiv, 2024) — Executable computer-use actions with cross-platform UI effects.
-+ [**AndroidWorld**](https://arxiv.org/abs/2405.14573) (arXiv, 2024) — Dynamic mobile UI transitions under touch interaction. [![Stars](https://img.shields.io/github/stars/google-research/android_world?style=flat&logo=github&color=181717)](https://github.com/google-research/android_world)
-+ [**MobileWorld**](https://arxiv.org/abs/2512.19432) (arXiv, 2025) — Mobile workflows with user interaction and MCP-augmented tasks. [![Stars](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld?style=flat&logo=github&color=181717)](https://github.com/Tongyi-MAI/MobileWorld)
++ [**World of Bits**](https://proceedings.mlr.press/v70/shi17a.html) (ICML, 2017) — Open-domain web-state transitions under interface interaction.
++ [**MiniWoB++**](https://arxiv.org/abs/1802.08802) (arXiv, 2018) — Short-horizon UI changes with typed web actions. [[GitHub]](https://github.com/Farama-Foundation/miniwob-plusplus)
++ [**WebShop**](https://arxiv.org/abs/2207.01206) (NeurIPS, 2022) — Workflow branching and latent task progress in shopping interfaces. [[GitHub]](https://github.com/princeton-nlp/WebShop)
++ [**WebArena**](https://arxiv.org/abs/2307.13854) (ICLR, 2024) — Semantic UI transitions under realistic web workflows. [[GitHub]](https://github.com/web-arena-x/webarena)
++ [**VisualWebArena**](https://arxiv.org/abs/2401.13649) (arXiv, 2024) — Multimodal web-state prediction with visual-semantic grounding. [[GitHub]](https://github.com/web-arena-x/visualwebarena)
++ [**TheAgentCompany**](https://arxiv.org/abs/2412.14161) (arXiv, 2024) — Enterprise-style browser workflows and hidden application logic. [[GitHub]](https://github.com/TheAgentCompany/TheAgentCompany)
++ [**OSWorld**](https://arxiv.org/abs/2404.07972) (arXiv, 2024) — Open-ended computer-use transitions across apps and OS state. [[GitHub]](https://github.com/xlang-ai/OSWorld)
++ [**WindowsAgentArena**](https://arxiv.org/abs/2409.08264) (arXiv, 2024) — Real multi-app state coordination under desktop interaction. [[GitHub]](https://github.com/microsoft/WindowsAgentArena)
++ [**OmniACT**](https://arxiv.org/abs/2402.17553) (arXiv, 2024) — Executable computer-use actions with cross-platform UI effects. [[Website]](https://huggingface.co/datasets/Writer/omniact)
++ [**AndroidWorld**](https://arxiv.org/abs/2405.14573) (arXiv, 2024) — Dynamic mobile UI transitions under touch interaction. [[GitHub]](https://github.com/google-research/android_world)
++ [**MobileWorld**](https://arxiv.org/abs/2512.19432) (arXiv, 2025) — Mobile workflows with user interaction and MCP-augmented tasks. [[GitHub]](https://github.com/Tongyi-MAI/MobileWorld)
 + [**GUI-360°**](https://arxiv.org/abs/2511.04307) (arXiv, 2025) — Comprehensive dataset and benchmark for computer-using agents.
 
 ### Tool Use
 
-+ [**τ-bench**](https://arxiv.org/abs/2406.12045) (arXiv, 2024) — Typed tool-state updates in tool-agent-user interaction. [![Stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=flat&logo=github&color=181717)](https://github.com/sierra-research/tau-bench)
-+ [**τ²-bench**](https://arxiv.org/abs/2506.07982) (arXiv, 2025) — Multi-party control and persistent tool-state consistency. [![Stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=flat&logo=github&color=181717)](https://github.com/sierra-research/tau2-bench)
++ [**τ-bench**](https://arxiv.org/abs/2406.12045) (arXiv, 2024) — Typed tool-state updates in tool-agent-user interaction. [[GitHub]](https://github.com/sierra-research/tau-bench)
++ [**τ²-bench**](https://arxiv.org/abs/2506.07982) (arXiv, 2025) — Multi-party control and persistent tool-state consistency. [[GitHub]](https://github.com/sierra-research/tau2-bench)
 + [**τ-Voice**](https://arxiv.org/abs/2603.13686) (arXiv, 2026) — Benchmarking full-duplex voice agents on real-world domains.
 + [**BFCL v3**](https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html) (ICML, 2025) — Multi-turn function-call validity and argument correctness.
-+ [**MCP-Universe**](https://arxiv.org/abs/2508.14704) (arXiv, 2025) — Multi-server tool coordination and external-state mutation. [![Stars](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe?style=flat&logo=github&color=181717)](https://github.com/SalesforceAIResearch/MCP-Universe)
-+ [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Enterprise workflow transitions with hidden service-side dependencies. [![Stars](https://img.shields.io/github/stars/Skyfall-Research/world-of-workflows?style=flat&logo=github&color=181717)](https://github.com/Skyfall-Research/world-of-workflows)
-+ [**AgentWorldModel-1K**](https://arxiv.org/abs/2602.10090) (arXiv, 2026) — Synthetic external-state modeling in executable SQL-MCP ecosystems. [![Stars](https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model?style=flat&logo=github&color=181717)](https://github.com/Snowflake-Labs/agent-world-model)
++ [**MCP-Universe**](https://arxiv.org/abs/2508.14704) (arXiv, 2025) — Multi-server tool coordination and external-state mutation. [[GitHub]](https://github.com/SalesforceAIResearch/MCP-Universe)
++ [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Enterprise workflow transitions with hidden service-side dependencies. [[GitHub]](https://github.com/Skyfall-Research/world-of-workflows)
++ [**AgentWorldModel-1K**](https://arxiv.org/abs/2602.10090) (arXiv, 2026) — Synthetic external-state modeling in executable SQL-MCP ecosystems. [[GitHub]](https://github.com/Snowflake-Labs/agent-world-model)
 
 ### Code
 
-+ [**HumanEval**](https://arxiv.org/abs/2107.03374) (arXiv, 2021) — Executable outcome prediction for code generation. [![Stars](https://img.shields.io/github/stars/openai/human-eval?style=flat&logo=github&color=181717)](https://github.com/openai/human-eval)
-+ [**SWE-bench**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Repository-scale state evolution under code edits and tests. [![Stars](https://img.shields.io/github/stars/swe-bench/SWE-bench?style=flat&logo=github&color=181717)](https://github.com/swe-bench/SWE-bench)
-+ [**InterCode**](https://arxiv.org/abs/2306.14898) (arXiv, 2023) — Interactive coding dynamics with stepwise execution feedback. [![Stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=flat&logo=github&color=181717)](https://github.com/princeton-nlp/intercode)
-+ [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Software-engineering transitions with surrogate environment feedback. [![Stars](https://img.shields.io/github/stars/RUCAIBox/SWE-World?style=flat&logo=github&color=181717)](https://github.com/RUCAIBox/SWE-World)
++ [**HumanEval**](https://arxiv.org/abs/2107.03374) (arXiv, 2021) — Executable outcome prediction for code generation. [[GitHub]](https://github.com/openai/human-eval)
++ [**SWE-bench**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Repository-scale state evolution under code edits and tests. [[GitHub]](https://github.com/swe-bench/SWE-bench)
++ [**SWE-bench Verified**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Verified long-horizon software issue resolution with execution feedback. [[GitHub]](https://github.com/swe-bench/SWE-bench)
++ [**InterCode**](https://arxiv.org/abs/2306.14898) (arXiv, 2023) — Interactive coding dynamics with stepwise execution feedback. [[GitHub]](https://github.com/princeton-nlp/intercode)
++ [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Software-engineering transitions with surrogate environment feedback. [[GitHub]](https://github.com/RUCAIBox/SWE-World)
 
 ### Multi-Domain
 
-+ [**AgentGym**](https://arxiv.org/abs/2406.04151) (arXiv, 2024) — Transfer of predictive abstractions across heterogeneous environments. [![Stars](https://img.shields.io/github/stars/WooooDyy/AgentGym?style=flat&logo=github&color=181717)](https://github.com/WooooDyy/AgentGym)
-+ [**AgentBench**](https://arxiv.org/abs/2308.03688) (arXiv, 2023) — Cross-domain comparison of agent behavior and predictive utility. [![Stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=flat&logo=github&color=181717)](https://github.com/THUDM/AgentBench)
++ [**AgentGym**](https://arxiv.org/abs/2406.04151) (arXiv, 2024) — Transfer of predictive abstractions across heterogeneous environments. [[GitHub]](https://github.com/WooooDyy/AgentGym)
++ [**AgentBench**](https://arxiv.org/abs/2308.03688) (arXiv, 2023) — Cross-domain comparison of agent behavior and predictive utility. [[GitHub]](https://github.com/THUDM/AgentBench)
 
 ## Datasets
 
 | Supervision Type | Representative Datasets | Role in World Models |
 |:-----------------|:-----------------------|:---------------------|
 | **Action-conditioned transitions** | [Mind2Web](https://arxiv.org/abs/2306.06070), [Android in the Wild](https://arxiv.org/abs/2307.10088), [Android Control](https://arxiv.org/abs/2406.03679), [MobileWorldBench](https://arxiv.org/abs/2512.14014) | Semantic UI dynamics, DOM/screenshot deltas, next-state prediction |
-| **Trajectory demonstrations** | [GUI-360°](https://arxiv.org/abs/2511.04307), [WebLINX](https://arxiv.org/abs/2402.05930), [AMEX](https://arxiv.org/abs/2407.17490), [Atari-HEAD](https://arxiv.org/abs/1903.06754), [VPT](https://arxiv.org/abs/2206.11795) | Planning priors, long-range workflow structure, temporal abstraction |
+| **Trajectory demonstrations** | [GUI-360°](https://arxiv.org/abs/2511.04307), [WebLINX](https://arxiv.org/abs/2402.05930), [AMEX](https://arxiv.org/abs/2407.17490), [Atari-HEAD](https://arxiv.org/abs/1903.06754), [MineRL](https://arxiv.org/abs/1907.13440), [VPT](https://arxiv.org/abs/2206.11795), [TextWorld](https://arxiv.org/abs/1806.11532), [ALFWorld](https://arxiv.org/abs/2010.03768), [ScienceWorld](https://arxiv.org/abs/2203.07540) | Planning priors, long-range workflow structure, temporal abstraction |
 | **Execution-grounded supervision** | [APPS](https://arxiv.org/abs/2105.09938), [MBPP](https://arxiv.org/abs/2108.07732), [CodeXGLUE](https://arxiv.org/abs/2102.04664), [HumanEval](https://arxiv.org/abs/2107.03374) | Constraint-aware prediction, execution-grounded transition modeling |
 | **Tool interaction traces** | [ToolBench](https://arxiv.org/abs/2307.16789), [ToolAlpaca](https://arxiv.org/abs/2306.05301), [API-Bank](https://arxiv.org/abs/2304.08244) | Schema-constrained actions, external system dynamics, tool workflows |
-| **Foundation corpora** | [The Stack](https://arxiv.org/abs/2211.15533), [StarCoder Data](https://arxiv.org/abs/2305.06161) | Reusable semantic priors, representation quality, cross-domain generalization |
-| **Synthetic trajectories** | [WebWorld](https://arxiv.org/abs/2602.14721), [Agent World Model](https://arxiv.org/abs/2602.10090) | Counterfactual transitions, branch expansion, planning robustness |
+| **Large-scale priors and foundation corpora** | [The Stack](https://arxiv.org/abs/2211.15533), [StarCoder Data](https://arxiv.org/abs/2305.06161) | Reusable semantic priors, representation quality, cross-domain generalization |
+| **Synthetic and simulated trajectories** | [WebWorld](https://arxiv.org/abs/2602.14721), [Agent World Model](https://arxiv.org/abs/2602.10090) | Counterfactual transitions, branch expansion, planning robustness |
 
 ## Related Surveys
 
