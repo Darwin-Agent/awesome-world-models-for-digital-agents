@@ -68,15 +68,15 @@ World models for game environments, including classical model-based RL, visual g
 
 ### Latent Dynamics & Model-Based RL
 
-+ [**DreamerV3**](https://arxiv.org/abs/2301.04104) (Nature, 2025) — RSSM + symlog loss; generalizes across 150+ diverse tasks. [![Stars](https://img.shields.io/github/stars/danijar/dreamerv3?style=flat&logo=github&color=181717)](https://github.com/danijar/dreamerv3)
-+ [**DIAMOND**](https://arxiv.org/abs/2405.12399) (NeurIPS, 2024) — U-Net diffusion transition operator for Atari. [![Stars](https://img.shields.io/github/stars/eloialonso/diamond?style=flat&logo=github&color=181717)](https://github.com/eloialonso/diamond)
-+ [**STORM**](https://arxiv.org/abs/2310.09615) (NeurIPS, 2023) — Stochastic Transformer + VAE world model. [![Stars](https://img.shields.io/github/stars/weipu-zhang/STORM?style=flat&logo=github&color=181717)](https://github.com/weipu-zhang/STORM)
-+ [**IRIS**](https://arxiv.org/abs/2209.00588) (ICLR, 2023) — VQ-VAE + Transformer autoregressive world model. [![Stars](https://img.shields.io/github/stars/eloialonso/iris?style=flat&logo=github&color=181717)](https://github.com/eloialonso/iris)
-+ [**EfficientZero**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — MuZero + self-supervised consistency; sample-efficient. [![Stars](https://img.shields.io/github/stars/YeWR/EfficientZero?style=flat&logo=github&color=181717)](https://github.com/YeWR/EfficientZero)
++ [**DreamerV3**](https://arxiv.org/abs/2301.04104) (Nature, 2025) — RSSM + symlog loss; generalizes across 150+ diverse tasks. [[GitHub]](https://github.com/danijar/dreamerv3)
++ [**DIAMOND**](https://arxiv.org/abs/2405.12399) (NeurIPS, 2024) — U-Net diffusion transition operator for Atari. [[GitHub]](https://github.com/eloialonso/diamond)
++ [**STORM**](https://arxiv.org/abs/2310.09615) (NeurIPS, 2023) — Stochastic Transformer + VAE world model. [[GitHub]](https://github.com/weipu-zhang/STORM)
++ [**IRIS**](https://arxiv.org/abs/2209.00588) (ICLR, 2023) — VQ-VAE + Transformer autoregressive world model. [[GitHub]](https://github.com/eloialonso/iris)
++ [**EfficientZero**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — MuZero + self-supervised consistency; sample-efficient. [[GitHub]](https://github.com/YeWR/EfficientZero)
 + [**MuZero**](https://arxiv.org/abs/1911.08265) (Nature, 2020) — Value-aligned latent dynamics with MCTS; masters Go, chess, Atari.
-+ [**Dreamer**](https://arxiv.org/abs/1912.01603) (ICLR, 2020) — Latent imagination via RSSM; multi-step backpropagation. [![Stars](https://img.shields.io/github/stars/danijar/dreamer?style=flat&logo=github&color=181717)](https://github.com/danijar/dreamer)
-+ [**PlaNet (RSSM)**](https://arxiv.org/abs/1811.04551) (ICML, 2019) — Learning latent dynamics for planning from pixels. [![Stars](https://img.shields.io/github/stars/google-research/planet?style=flat&logo=github&color=181717)](https://github.com/google-research/planet)
-+ [**World Models**](https://arxiv.org/abs/1803.10122) (NeurIPS, 2018) — VAE + MDN-RNN; influential early architecture. [![Stars](https://img.shields.io/github/stars/hardmaru/WorldModelsExperiments?style=flat&logo=github&color=181717)](https://github.com/hardmaru/WorldModelsExperiments)
++ [**Dreamer**](https://arxiv.org/abs/1912.01603) (ICLR, 2020) — Latent imagination via RSSM; multi-step backpropagation. [[GitHub]](https://github.com/danijar/dreamer)
++ [**PlaNet (RSSM)**](https://arxiv.org/abs/1811.04551) (ICML, 2019) — Learning latent dynamics for planning from pixels. [[GitHub]](https://github.com/google-research/planet)
++ [**World Models**](https://arxiv.org/abs/1803.10122) (NeurIPS, 2018) — VAE + MDN-RNN; influential early architecture. [[GitHub]](https://github.com/hardmaru/WorldModelsExperiments)
 
 ### Visual Game Generation
 
@@ -87,7 +87,7 @@ World models for game environments, including classical model-based RL, visual g
 
 ### Text-Interactive Worlds
 
-+ [**WALL-E 2.0**](https://arxiv.org/abs/2504.15785) (arXiv, 2025) — Neuro-symbolic world alignment for text-world planning. [![Stars](https://img.shields.io/github/stars/siyuzhou/WALL-E?style=flat&logo=github&color=181717)](https://github.com/siyuzhou/WALL-E)
++ [**WALL-E 2.0**](https://arxiv.org/abs/2504.15785) (arXiv, 2025) — Neuro-symbolic world alignment for text-world planning. [[GitHub]](https://github.com/siyuzhou/WALL-E)
 + [**From Word to World**](https://arxiv.org/abs/2512.18832) (arXiv, 2025) — Evaluating LLMs as implicit text-based world models.
 + [**WALL-E 1.0**](https://arxiv.org/abs/2410.07484) (arXiv, 2024) — Rule-aligned world model for LLM agents in text environments.
 + [**RAP**](https://arxiv.org/abs/2305.14992) (EMNLP, 2023) — Reasoning with language model is planning with world model.
@@ -107,24 +107,24 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 + [**WAC**](https://arxiv.org/abs/2602.15384) (arXiv, 2026) — World-model-augmented web agents with action correction.
 + [**WebWorld**](https://arxiv.org/abs/2602.14721) (arXiv, 2026) — Large-scale LLM-based world model for web agent training.
 + [**DynaWeb**](https://arxiv.org/abs/2601.22149) (arXiv, 2026) — Model-based reinforcement learning of web agents.
-+ [**WebSynthesis**](https://arxiv.org/abs/2507.04370) (arXiv, 2025) — World-model-guided MCTS for efficient web trajectory synthesis. [![Stars](https://img.shields.io/github/stars/LucusFigoGao/WebSynthesis?style=flat&logo=github&color=181717)](https://github.com/LucusFigoGao/WebSynthesis)
++ [**WebSynthesis**](https://arxiv.org/abs/2507.04370) (arXiv, 2025) — World-model-guided MCTS for efficient web trajectory synthesis. [[GitHub]](https://github.com/LucusFigoGao/WebSynthesis)
 + [**WebEvolver**](https://arxiv.org/abs/2504.21024) (arXiv, 2025) — Self-improvement with coevolving world model for web agents.
 + [**WebWM**](https://arxiv.org/abs/2512.23676) (arXiv, 2025) — Web World Models; semantic HTML delta prediction.
-+ [**WebDreamer**](https://arxiv.org/abs/2411.06559) (TMLR, 2025) — LLM web state simulation + tree search for planning. [![Stars](https://img.shields.io/github/stars/OSU-NLP-Group/WebDreamer?style=flat&logo=github&color=181717)](https://github.com/OSU-NLP-Group/WebDreamer)
-+ [**WMA Web Agent**](https://arxiv.org/abs/2410.13232) (ICLR, 2025) — Learning and leveraging environment dynamics in web navigation. [![Stars](https://img.shields.io/github/stars/kyle8581/WMA-Agents?style=flat&logo=github&color=181717)](https://github.com/kyle8581/WMA-Agents)
++ [**WebDreamer**](https://arxiv.org/abs/2411.06559) (TMLR, 2025) — LLM web state simulation + tree search for planning. [[GitHub]](https://github.com/OSU-NLP-Group/WebDreamer)
++ [**WMA Web Agent**](https://arxiv.org/abs/2410.13232) (ICLR, 2025) — Learning and leveraging environment dynamics in web navigation. [[GitHub]](https://github.com/kyle8581/WMA-Agents)
 
 ### GUI — Desktop & Computer-Use
 
 + [**Computer-Using World Model**](https://arxiv.org/abs/2602.17365) (arXiv, 2026) — LLM-based UI state delta prediction for action search.
 + [**SafePred**](https://arxiv.org/abs/2602.01725) (arXiv, 2026) — Predictive guardrail for computer-using agents via world models.
-+ [**NeuralOS**](https://arxiv.org/abs/2507.08800) (arXiv, 2025) — RNN + pixel diffusion for desktop GUI simulation. [![Stars](https://img.shields.io/github/stars/yuntian-group/neural-os?style=flat&logo=github&color=181717)](https://github.com/yuntian-group/neural-os)
++ [**NeuralOS**](https://arxiv.org/abs/2507.08800) (arXiv, 2025) — RNN + pixel diffusion for desktop GUI simulation. [[GitHub]](https://github.com/yuntian-group/neural-os)
 + [**R-WoM**](https://arxiv.org/abs/2510.11892) (arXiv, 2025) — Retrieval-augmented world model for computer-use agents.
 
 ### GUI — Mobile
 
 + [**GEBench**](https://arxiv.org/abs/2602.09007) (arXiv, 2026) — Benchmarking image generation models as GUI environments.
-+ [**gWorld**](https://arxiv.org/abs/2602.01576) (arXiv, 2026) — VLM code rendering for mobile world simulation. [![Stars](https://img.shields.io/github/stars/trillion-labs/gWorld?style=flat&logo=github&color=181717)](https://github.com/trillion-labs/gWorld)
-+ [**Code2World**](https://arxiv.org/abs/2602.09856) (arXiv, 2026) — GUI world model via renderable code generation. [![Stars](https://img.shields.io/github/stars/AMAP-ML/Code2World?style=flat&logo=github&color=181717)](https://github.com/AMAP-ML/Code2World)
++ [**gWorld**](https://arxiv.org/abs/2602.01576) (arXiv, 2026) — VLM code rendering for mobile world simulation. [[GitHub]](https://github.com/trillion-labs/gWorld)
++ [**Code2World**](https://arxiv.org/abs/2602.09856) (arXiv, 2026) — GUI world model via renderable code generation. [[GitHub]](https://github.com/AMAP-ML/Code2World)
 + [**MobileDreamer**](https://arxiv.org/abs/2601.04035) (arXiv, 2026) — Generative sketch world model for GUI agents.
 + [**UISim**](https://arxiv.org/abs/2509.21733) (arXiv, 2025) — Interactive image-based UI simulator for dynamic mobile environments.
 + [**ViMo**](https://arxiv.org/abs/2504.13936) (arXiv, 2025) — Generative visual GUI world model for app agents.
@@ -142,9 +142,9 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 
 World models for tool-augmented agents, API interaction, and workflow systems.
 
-+ [**Agent World Model**](https://arxiv.org/abs/2602.10090) (arXiv, 2026) — Infinity synthetic environments for agentic RL. [![Stars](https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model?style=flat&logo=github&color=181717)](https://github.com/Snowflake-Labs/agent-world-model)
++ [**Agent World Model**](https://arxiv.org/abs/2602.10090) (arXiv, 2026) — Infinity synthetic environments for agentic RL. [[GitHub]](https://github.com/Snowflake-Labs/agent-world-model)
 + [**RWML**](https://arxiv.org/abs/2602.05842) (arXiv, 2026) — Reinforcement world model learning for LLM-based agents.
-+ [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Benchmark for bringing world models to enterprise systems. [![Stars](https://img.shields.io/github/stars/Skyfall-Research/world-of-workflows?style=flat&logo=github&color=181717)](https://github.com/Skyfall-Research/world-of-workflows)
++ [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Benchmark for bringing world models to enterprise systems. [[GitHub]](https://github.com/Skyfall-Research/world-of-workflows)
 + [**GTM**](https://arxiv.org/abs/2512.04535) (arXiv, 2025) — Simulating the world of tools for AI agents.
 + [**LLMs as Simulators**](https://arxiv.org/abs/2510.14969) (arXiv, 2025) — LLMs as scalable, general-purpose simulators for digital agent training.
 + [**ToolRM**](https://arxiv.org/abs/2509.11963) (arXiv, 2025) — Outcome reward models for tool-calling LLMs.
@@ -153,10 +153,10 @@ World models for tool-augmented agents, API interaction, and workflow systems.
 
 World models for code generation, software engineering, and executable environment modeling.
 
-+ [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Building software engineering agents in docker-free environments. [![Stars](https://img.shields.io/github/stars/RUCAIBox/SWE-World?style=flat&logo=github&color=181717)](https://github.com/RUCAIBox/SWE-World)
-+ [**CWM**](https://arxiv.org/abs/2510.02387) (arXiv, 2025) — Open-weights LLM for research on code generation with world models. [![Stars](https://img.shields.io/github/stars/facebookresearch/cwm?style=flat&logo=github&color=181717)](https://github.com/facebookresearch/cwm)
-+ [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by Monte Carlo tree search. [![Stars](https://img.shields.io/github/stars/nicoladainese96/code-world-models?style=flat&logo=github&color=181717)](https://github.com/nicoladainese96/code-world-models)
-+ [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code and interacting with the environment. [![Stars](https://img.shields.io/github/stars/haotang1995/WorldCoder?style=flat&logo=github&color=181717)](https://github.com/haotang1995/WorldCoder)
++ [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Building software engineering agents in docker-free environments. [[GitHub]](https://github.com/RUCAIBox/SWE-World)
++ [**CWM**](https://arxiv.org/abs/2510.02387) (arXiv, 2025) — Open-weights LLM for research on code generation with world models. [[GitHub]](https://github.com/facebookresearch/cwm)
++ [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by Monte Carlo tree search. [[GitHub]](https://github.com/nicoladainese96/code-world-models)
++ [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code and interacting with the environment. [[GitHub]](https://github.com/haotang1995/WorldCoder)
 
 ## Benchmarks & Environments
 
