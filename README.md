@@ -96,7 +96,7 @@ World models for game environments, including classical model-based RL, visual g
 
 + [**Neuro-Symbolic Synergy**](https://arxiv.org/abs/2602.10480) (arXiv, 2026) — Neuro-symbolic synergy for interactive world modeling.
 + [**Current Agents Fail to Leverage WM**](https://arxiv.org/abs/2601.03905) (arXiv, 2026) — Negative evidence on agents using world models as foresight tools.
-+ [**General Agents Contain World Models**](https://arxiv.org/abs/2506.02996) (ICML, 2025) — Theoretical result on world models in general agents.
++ [**General Agents Contain World Models**](https://arxiv.org/abs/2506.01622) (ICML, 2025) — Theoretical result on world models in general agents.
 
 ## Web & GUI
 
@@ -196,7 +196,7 @@ World models for code generation, software engineering, and executable environme
 
 + [**τ-bench**](https://arxiv.org/abs/2406.12045) (arXiv, 2024) — Typed tool-state updates in tool-agent-user interaction. [![Stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=flat&logo=github&color=181717)](https://github.com/sierra-research/tau-bench)
 + [**τ²-bench**](https://arxiv.org/abs/2506.07982) (arXiv, 2025) — Multi-party control and persistent tool-state consistency. [![Stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=flat&logo=github&color=181717)](https://github.com/sierra-research/tau2-bench)
-+ [**τ³-bench**](https://arxiv.org/abs/2603.13686) (arXiv, 2026) — Voice-grounded tool use with multimodal state tracking.
++ [**τ-Voice**](https://arxiv.org/abs/2603.13686) (arXiv, 2026) — Benchmarking full-duplex voice agents on real-world domains.
 + [**BFCL v3**](https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html) (ICML, 2025) — Multi-turn function-call validity and argument correctness.
 + [**MCP-Universe**](https://arxiv.org/abs/2508.14704) (arXiv, 2025) — Multi-server tool coordination and external-state mutation. [![Stars](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe?style=flat&logo=github&color=181717)](https://github.com/SalesforceAIResearch/MCP-Universe)
 + [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Enterprise workflow transitions with hidden service-side dependencies. [![Stars](https://img.shields.io/github/stars/Skyfall-Research/world-of-workflows?style=flat&logo=github&color=181717)](https://github.com/Skyfall-Research/world-of-workflows)
@@ -218,7 +218,7 @@ World models for code generation, software engineering, and executable environme
 
 | Supervision Type | Representative Datasets | Role in World Models |
 |:-----------------|:-----------------------|:---------------------|
-| **Action-conditioned transitions** | [Mind2Web](https://arxiv.org/abs/2306.06070), [Android in the Wild](https://arxiv.org/abs/2307.10088), [Android Control](https://arxiv.org/abs/2406.12045), [MobileWorldBench](https://arxiv.org/abs/2512.14014) | Semantic UI dynamics, DOM/screenshot deltas, next-state prediction |
+| **Action-conditioned transitions** | [Mind2Web](https://arxiv.org/abs/2306.06070), [Android in the Wild](https://arxiv.org/abs/2307.10088), [Android Control](https://arxiv.org/abs/2406.03679), [MobileWorldBench](https://arxiv.org/abs/2512.14014) | Semantic UI dynamics, DOM/screenshot deltas, next-state prediction |
 | **Trajectory demonstrations** | [GUI-360°](https://arxiv.org/abs/2511.04307), [WebLINX](https://arxiv.org/abs/2312.07930), [AMEX](https://arxiv.org/abs/2407.17490), [Atari-HEAD](https://arxiv.org/abs/1903.06754), [VPT](https://arxiv.org/abs/2206.11795) | Planning priors, long-range workflow structure, temporal abstraction |
 | **Execution-grounded supervision** | [APPS](https://arxiv.org/abs/2105.09938), [MBPP](https://arxiv.org/abs/2108.07732), [CodeXGLUE](https://arxiv.org/abs/2102.04664), [HumanEval](https://arxiv.org/abs/2107.03374) | Constraint-aware prediction, execution-grounded transition modeling |
 | **Tool interaction traces** | [ToolBench](https://arxiv.org/abs/2307.16789), [ToolAlpaca](https://arxiv.org/abs/2306.05301), [API-Bank](https://arxiv.org/abs/2304.08244) | Schema-constrained actions, external system dynamics, tool workflows |
@@ -227,8 +227,8 @@ World models for code generation, software engineering, and executable environme
 
 ## Related Surveys
 
-+ [**Dong et al.**](https://arxiv.org/abs/2501.00000) (Authorea, 2026) — Learning to model the world: world models in AI.
-+ [**Tan et al.**](https://arxiv.org/abs/2501.00000) (Authorea, 2026) — Towards generalist embodied AI: world models for VLA agents.
++ [**Dong et al.**](https://www.preprints.org/manuscript/202603.0739) (Preprints, 2026) — Learning to model the world: world models in AI.
++ [**Tan et al.**](https://arxiv.org/abs/2603.01465) (arXiv, 2026) — Towards generalist embodied AI: world models for VLA agents.
 + [**Bai et al.**](https://arxiv.org/abs/2510.20668) (arXiv, 2025) — From masks to worlds: a hitchhiker's guide to world models.
 + [**Kong et al.**](https://arxiv.org/abs/2509.07996) (arXiv, 2025) — 3D and 4D world modeling.
 + [**Li et al.**](https://arxiv.org/abs/2510.16732) (arXiv, 2025) — Comprehensive survey on world models for embodied AI.
