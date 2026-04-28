@@ -275,7 +275,3 @@ If you find this resource useful, please cite our survey:
   url           = {https://arxiv.org/abs/XXXX.XXXXX}
 }
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR-ORG/awesome-world-models-for-digital-agents&type=Date)](https://www.star-history.com/#YOUR-ORG/awesome-world-models-for-digital-agents&Date)
