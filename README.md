@@ -179,7 +179,7 @@ World models for code generation, software engineering, and executable environme
 
 ### Web & GUI
 
-+ [**World of Bits**](https://arxiv.org/abs/1704.07433) (ICML, 2017) — Open-domain web-state transitions under interface interaction. [![Stars](https://img.shields.io/github/stars/stanfordnlp/wob?style=flat&logo=github&color=181717)](https://github.com/stanfordnlp/wob)
++ [**World of Bits**](https://proceedings.mlr.press/v70/shi17a.html) (ICML, 2017) — Open-domain web-state transitions under interface interaction. [![Stars](https://img.shields.io/github/stars/stanfordnlp/wob?style=flat&logo=github&color=181717)](https://github.com/stanfordnlp/wob)
 + [**MiniWoB++**](https://arxiv.org/abs/1802.08802) (arXiv, 2018) — Short-horizon UI changes with typed web actions. [![Stars](https://img.shields.io/github/stars/Farama-Foundation/miniwob-plusplus?style=flat&logo=github&color=181717)](https://github.com/Farama-Foundation/miniwob-plusplus)
 + [**WebShop**](https://arxiv.org/abs/2207.01206) (NeurIPS, 2022) — Workflow branching and latent task progress in shopping interfaces. [![Stars](https://img.shields.io/github/stars/princeton-nlp/WebShop?style=flat&logo=github&color=181717)](https://github.com/princeton-nlp/WebShop)
 + [**WebArena**](https://arxiv.org/abs/2307.13854) (ICLR, 2024) — Semantic UI transitions under realistic web workflows. [![Stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=flat&logo=github&color=181717)](https://github.com/web-arena-x/webarena)
@@ -219,7 +219,7 @@ World models for code generation, software engineering, and executable environme
 | Supervision Type | Representative Datasets | Role in World Models |
 |:-----------------|:-----------------------|:---------------------|
 | **Action-conditioned transitions** | [Mind2Web](https://arxiv.org/abs/2306.06070), [Android in the Wild](https://arxiv.org/abs/2307.10088), [Android Control](https://arxiv.org/abs/2406.03679), [MobileWorldBench](https://arxiv.org/abs/2512.14014) | Semantic UI dynamics, DOM/screenshot deltas, next-state prediction |
-| **Trajectory demonstrations** | [GUI-360°](https://arxiv.org/abs/2511.04307), [WebLINX](https://arxiv.org/abs/2312.07930), [AMEX](https://arxiv.org/abs/2407.17490), [Atari-HEAD](https://arxiv.org/abs/1903.06754), [VPT](https://arxiv.org/abs/2206.11795) | Planning priors, long-range workflow structure, temporal abstraction |
+| **Trajectory demonstrations** | [GUI-360°](https://arxiv.org/abs/2511.04307), [WebLINX](https://arxiv.org/abs/2402.05930), [AMEX](https://arxiv.org/abs/2407.17490), [Atari-HEAD](https://arxiv.org/abs/1903.06754), [VPT](https://arxiv.org/abs/2206.11795) | Planning priors, long-range workflow structure, temporal abstraction |
 | **Execution-grounded supervision** | [APPS](https://arxiv.org/abs/2105.09938), [MBPP](https://arxiv.org/abs/2108.07732), [CodeXGLUE](https://arxiv.org/abs/2102.04664), [HumanEval](https://arxiv.org/abs/2107.03374) | Constraint-aware prediction, execution-grounded transition modeling |
 | **Tool interaction traces** | [ToolBench](https://arxiv.org/abs/2307.16789), [ToolAlpaca](https://arxiv.org/abs/2306.05301), [API-Bank](https://arxiv.org/abs/2304.08244) | Schema-constrained actions, external system dynamics, tool workflows |
 | **Foundation corpora** | [The Stack](https://arxiv.org/abs/2211.15533), [StarCoder Data](https://arxiv.org/abs/2305.06161) | Reusable semantic priors, representation quality, cross-domain generalization |
@@ -228,7 +228,7 @@ World models for code generation, software engineering, and executable environme
 ## Related Surveys
 
 + [**Dong et al.**](https://www.preprints.org/manuscript/202603.0739) (Preprints, 2026) — Learning to model the world: world models in AI.
-+ [**Tan et al.**](https://arxiv.org/abs/2603.01465) (arXiv, 2026) — Towards generalist embodied AI: world models for VLA agents.
++ [**Tan et al.**](https://www.techrxiv.org/doi/10.36227/techrxiv.176948355.54623875) (TechRxiv, 2026) — Towards generalist embodied AI: world models for VLA agents.
 + [**Bai et al.**](https://arxiv.org/abs/2510.20668) (arXiv, 2025) — From masks to worlds: a hitchhiker's guide to world models.
 + [**Kong et al.**](https://arxiv.org/abs/2509.07996) (arXiv, 2025) — 3D and 4D world modeling.
 + [**Li et al.**](https://arxiv.org/abs/2510.16732) (arXiv, 2025) — Comprehensive survey on world models for embodied AI.
