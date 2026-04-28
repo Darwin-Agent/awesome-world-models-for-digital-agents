@@ -44,7 +44,7 @@ World models for game environments, including classical model-based RL, visual g
 + [**STORM**](https://arxiv.org/abs/2310.09615) (NeurIPS, 2023) — Stochastic Transformer + VAE world model. [[GitHub]](https://github.com/weipu-zhang/STORM)
 + [**IRIS**](https://arxiv.org/abs/2209.00588) (ICLR, 2023) — VQ-VAE + Transformer autoregressive world model. [[GitHub]](https://github.com/eloialonso/iris)
 + [**EfficientZero**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — MuZero + self-supervised consistency; sample-efficient. [[GitHub]](https://github.com/YeWR/EfficientZero)
-+ [**MuZero**](https://arxiv.org/abs/1911.08265) (Nature, 2020) — Value-aligned latent dynamics with MCTS; masters Go, chess, Atari.
++ [**MuZero**](https://arxiv.org/abs/1911.08265) (Nature, 2020) — Value-aligned latent dynamics with MCTS; masters Go, chess, shogi, and Atari.
 + [**Dreamer**](https://arxiv.org/abs/1912.01603) (ICLR, 2020) — Latent imagination via RSSM; multi-step backpropagation. [[GitHub]](https://github.com/danijar/dreamer)
 + [**PlaNet (RSSM)**](https://arxiv.org/abs/1811.04551) (ICML, 2019) — Learning latent dynamics for planning from pixels. [[GitHub]](https://github.com/google-research/planet)
 + [**World Models**](https://arxiv.org/abs/1803.10122) (NeurIPS, 2018) — VAE + MDN-RNN; influential early architecture. [[GitHub]](https://github.com/hardmaru/WorldModelsExperiments)
@@ -88,13 +88,13 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 
 + [**Computer-Using World Model**](https://arxiv.org/abs/2602.17365) (arXiv, 2026) — LLM-based UI state delta prediction for action search.
 + [**SafePred**](https://arxiv.org/abs/2602.01725) (arXiv, 2026) — Predictive guardrail for computer-using agents via world models.
-+ [**NeuralOS**](https://arxiv.org/abs/2507.08800) (arXiv, 2025) — RNN + pixel diffusion for desktop GUI simulation. [[GitHub]](https://github.com/yuntian-group/neural-os)
++ [**NeuralOS**](https://arxiv.org/abs/2507.08800) (arXiv, 2025) — RNN + pixel diffusion for operating system simulation. [[GitHub]](https://github.com/yuntian-group/neural-os)
 + [**R-WoM**](https://arxiv.org/abs/2510.11892) (arXiv, 2025) — Retrieval-augmented world model for computer-use agents.
 
 ### GUI — Mobile
 
 + [**GEBench**](https://arxiv.org/abs/2602.09007) (arXiv, 2026) — Benchmarking image generation models as GUI environments.
-+ [**gWorld**](https://arxiv.org/abs/2602.01576) (arXiv, 2026) — VLM code rendering for mobile world simulation. [[GitHub]](https://github.com/trillion-labs/gWorld)
++ [**gWorld**](https://arxiv.org/abs/2602.01576) (arXiv, 2026) — Generative visual code for mobile world modeling. [[GitHub]](https://github.com/trillion-labs/gWorld)
 + [**Code2World**](https://arxiv.org/abs/2602.09856) (arXiv, 2026) — GUI world model via renderable code generation. [[GitHub]](https://github.com/AMAP-ML/Code2World)
 + [**MobileDreamer**](https://arxiv.org/abs/2601.04035) (arXiv, 2026) — Generative sketch world model for GUI agents.
 + [**UISim**](https://arxiv.org/abs/2509.21733) (arXiv, 2025) — Interactive image-based UI simulator for dynamic mobile environments.
