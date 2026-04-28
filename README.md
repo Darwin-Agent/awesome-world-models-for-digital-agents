@@ -87,7 +87,7 @@ World models for game environments, including classical model-based RL, visual g
 
 ### Text-Interactive Worlds
 
-+ [**WALL-E 2.0**](https://arxiv.org/abs/2504.15785) (arXiv, 2025) — Neuro-symbolic world alignment for text-world planning. [[GitHub]](https://github.com/siyuzhou/WALL-E)
++ [**WALL-E 2.0**](https://arxiv.org/abs/2504.15785) (arXiv, 2025) — Neuro-symbolic world alignment for text-world planning. [[GitHub]](https://github.com/elated-sawyer/WALL-E)
 + [**From Word to World**](https://arxiv.org/abs/2512.18832) (arXiv, 2025) — Evaluating LLMs as implicit text-based world models.
 + [**WALL-E 1.0**](https://arxiv.org/abs/2410.07484) (arXiv, 2024) — Rule-aligned world model for LLM agents in text environments.
 + [**RAP**](https://arxiv.org/abs/2305.14992) (EMNLP, 2023) — Reasoning with language model is planning with world model.
@@ -136,7 +136,7 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 + [**SimuRA**](https://arxiv.org/abs/2507.23773) (arXiv, 2025) — World-model-driven simulative reasoning architecture for goal-oriented agents.
 + [**VAGEN**](https://arxiv.org/abs/2510.16907) (arXiv, 2025) — Reinforcing world model reasoning for multi-turn VLM agents.
 + [**EvoAgent**](https://arxiv.org/abs/2502.05907) (arXiv, 2025) — Self-evolving agent with continual world model for long-horizon tasks.
-+ [**WorldGPT**](https://doi.org/10.1145/3664647.3681649) (ACM MM, 2024) — Empowering LLMs as multimodal world models.
++ [**WorldGPT**](https://doi.org/10.1145/3664647.3681488) (ACM MM, 2024) — Empowering LLMs as multimodal world models.
 
 ## Tool Use
 
@@ -146,7 +146,7 @@ World models for tool-augmented agents, API interaction, and workflow systems.
 + [**RWML**](https://arxiv.org/abs/2602.05842) (arXiv, 2026) — Reinforcement world model learning for LLM-based agents.
 + [**World of Workflows**](https://arxiv.org/abs/2601.22130) (arXiv, 2026) — Benchmark for bringing world models to enterprise systems. [[GitHub]](https://github.com/Skyfall-Research/world-of-workflows)
 + [**GTM**](https://arxiv.org/abs/2512.04535) (arXiv, 2025) — Simulating the world of tools for AI agents.
-+ [**LLMs as Simulators**](https://arxiv.org/abs/2510.14969) (arXiv, 2025) — LLMs as scalable, general-purpose simulators for digital agent training.
++ [**LLMs as Simulators**](https://arxiv.org/abs/2510.14969) (arXiv, 2025) — LLMs as scalable, general-purpose simulators for evolving digital agent training.
 + [**ToolRM**](https://arxiv.org/abs/2509.11963) (arXiv, 2025) — Outcome reward models for tool-calling LLMs.
 
 ## Code
