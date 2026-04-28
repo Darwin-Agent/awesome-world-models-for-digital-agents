@@ -1,0 +1,22 @@
+# Lychee link checker configuration
+# https://lychee.cli.rs/
+
+# Exclude URLs that are valid but block automated checkers (403 / TLS)
+exclude = [
+  # Placeholder arXiv ID (to be replaced once paper is published)
+  "https://arxiv\\.org/abs/XXXX\\.XXXXX",
+  # ACM Digital Library blocks bots after DOI redirect
+  "https://doi\\.org/10\\.1145/.*",
+  # Preprints.org returns 403 to automated fetchers
+  "https://www\\.preprints\\.org/.*",
+  # TechRxiv returns 403 to automated fetchers
+  "https://www\\.techrxiv\\.org/.*",
+  # PMLR occasionally has TLS issues in CI
+  "https://proceedings\\.mlr\\.press/.*",
+]
+
+# Max number of concurrent requests
+max_concurrency = 16
+
+# Timeout per request (seconds)
+timeout = 30
