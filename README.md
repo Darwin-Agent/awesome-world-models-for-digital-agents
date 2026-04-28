@@ -33,35 +33,6 @@ The survey organizes world models for digital agents along a unified design spac
 | **L: Learning & System Realization** | *How is it built?* | LLM-based, Visual generative, Latent dynamics, Code-based, Hybrid/modular |
 | **U: Agent-Facing Role** | *How is it used?* | Decision-time planning, Training-time interaction, Predictive verification |
 
-### Representative Methods Mapped to (X, L, U)
-
-| Method | Domain | X: Prediction Target | L: Paradigm | U: Usage |
-|:-------|:-------|:---------------------|:------------|:---------|
-| MuZero | Game | Latent transition (reward/value/policy) | Latent dynamics | Planning (MCTS) |
-| EfficientZero | Game | Latent transition (reward/value) | Latent dynamics | Planning, training |
-| DreamerV3 | Game | Latent transition (state/reward) | Latent dynamics | Training (imagined rollouts) |
-| IRIS | Game | Full observation (tokens) | Latent dynamics | Training (imagined trajectories) |
-| Genie | Game | Full observation (video) | Visual-generative | Training (env. generation) |
-| WMA | Web | State delta (web transition) | LLM-based | Planning (policy selection) |
-| WebWM | Web | State delta (web dynamics) | Hybrid/modular | Training (env. generation) |
-| WebWorld | Web | Full observation (web page) | LLM-based | Training, planning |
-| DynaWeb | Web | Full observation (web page) | LLM-based | Training (model-based RL) |
-| WebEvolver | Web | State delta (web state) | LLM-based | Training (co-evolution), planning |
-| VAGEN | Web/GUI | Latent transition (belief) | VLM/RL-based | Training |
-| R-WoM | GUI | State delta (UI change) | Hybrid/modular | Planning, verification |
-| ViMo | GUI | Full observation (GUI image) | Visual-generative | Planning (action evaluation) |
-| MobileDreamer | GUI | Full observation (GUI sketch) | LLM-based | Planning (action evaluation) |
-| Code2World | GUI | Full observation (renderable code) | Code-based | Planning (simulation) |
-| CUWM | GUI | State delta (UI change) | LLM-based | Planning (action search) |
-| SafePred | GUI | Auxiliary outcome (risk) | LLM-based | Verification (guardrail) |
-| Agent World Model | Tool-use | Full observation (tool state) | Code-based | Training (env. generation) |
-| GTM | Tool-use | Full observation (tool output) | LLM-based | Training (tool simulation) |
-| ToolRM | Tool-use | Auxiliary outcome (tool reward) | LLM-based | Verification |
-| WorldCoder | Code | State delta (program dynamics) | Code-based | Planning |
-| Code World Models | Code | State delta (program dynamics) | Code-based | Planning, verification |
-| CWM | Code | State delta (execution trace) | LLM-based | Verification |
-| SWE-World | Code | Auxiliary outcome (execution feedback) | LLM-based | Training, verification |
-
 ## Games
 
 World models for game environments, including classical model-based RL, visual game generation, and text-interactive worlds.
@@ -107,8 +78,8 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 + [**WAC**](https://arxiv.org/abs/2602.15384) (arXiv, 2026) — World-model-augmented web agents with action correction.
 + [**WebWorld**](https://arxiv.org/abs/2602.14721) (arXiv, 2026) — Large-scale LLM-based world model for web agent training.
 + [**DynaWeb**](https://arxiv.org/abs/2601.22149) (arXiv, 2026) — Model-based reinforcement learning of web agents.
-+ [**WebSynthesis**](https://arxiv.org/abs/2507.04370) (arXiv, 2025) — World-model-guided MCTS for efficient web trajectory synthesis. [[GitHub]](https://github.com/LucusFigoGao/WebSynthesis)
-+ [**WebEvolver**](https://arxiv.org/abs/2504.21024) (arXiv, 2025) — Self-improvement with coevolving world model for web agents.
++ [**WebSynthesis**](https://arxiv.org/abs/2507.04370) (arXiv, 2025) — World-model-guided MCTS for efficient WebUI-trajectory synthesis. [[GitHub]](https://github.com/LucusFigoGao/WebSynthesis)
++ [**WebEvolver**](https://arxiv.org/abs/2504.21024) (arXiv, 2025) — Enhancing web agent self-improvement with coevolving world model.
 + [**WebWM**](https://arxiv.org/abs/2512.23676) (arXiv, 2025) — Web World Models; semantic HTML delta prediction.
 + [**WebDreamer**](https://arxiv.org/abs/2411.06559) (TMLR, 2025) — LLM web state simulation + tree search for planning. [[GitHub]](https://github.com/OSU-NLP-Group/WebDreamer)
 + [**WMA Web Agent**](https://arxiv.org/abs/2410.13232) (ICLR, 2025) — Learning and leveraging environment dynamics in web navigation. [[GitHub]](https://github.com/kyle8581/WMA-Agents)
@@ -133,7 +104,7 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 ### Cross-Domain GUI/Web
 
 + [**World Craft**](https://arxiv.org/abs/2601.09150) (arXiv, 2026) — Agentic framework to create visualizable worlds via text.
-+ [**SimuRA**](https://arxiv.org/abs/2507.23773) (arXiv, 2025) — World-model-driven simulative reasoning architecture for goal-oriented agents.
++ [**SimuRA**](https://arxiv.org/abs/2507.23773) (arXiv, 2025) — World-model-driven simulative reasoning architecture for general goal-oriented agents.
 + [**VAGEN**](https://arxiv.org/abs/2510.16907) (arXiv, 2025) — Reinforcing world model reasoning for multi-turn VLM agents.
 + [**EvoAgent**](https://arxiv.org/abs/2502.05907) (arXiv, 2025) — Self-evolving agent with continual world model for long-horizon tasks.
 + [**WorldGPT**](https://doi.org/10.1145/3664647.3681488) (ACM MM, 2024) — Empowering LLMs as multimodal world models.
