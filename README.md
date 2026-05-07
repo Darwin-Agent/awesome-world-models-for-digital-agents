@@ -4,9 +4,9 @@
 
 # Awesome World Models for Digital Agents
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
 
-This repository accompanies [**Digital Agents Meet World Models: A Survey**](https://arxiv.org/abs/XXXX.XXXXX), providing a taxonomy-aligned bibliography of cited works and representative systems across games, web & GUI, tool-use, and code domains. The survey introduces a unified agent-centric design space **W = (X, L, U)**, organized around what is modeled, how predictive capability is built, and how world models are used inside the agent loop.
+This repository accompanies [**Digital Agents Meet World Models: A Survey**](paper.pdf), providing a taxonomy-aligned bibliography of cited works and representative systems across games, web & GUI, tool-use, and code domains. The survey introduces a unified agent-centric design space **W = (X, L, U)**, organized around what is modeled, how predictive capability is built, and how world models are used inside the agent loop.
 
 Papers are grouped by domain and listed in reverse chronological order within each subsection to support literature navigation, comparison, and ongoing updates.
 
@@ -235,13 +235,10 @@ When submitting, please include:
 If you find this resource useful, please cite our survey:
 
 ```bibtex
-@article{survey2026digitalagentsworldmodels,
+@article{chen2026digitalagentsworldmodels,
   title         = {Digital Agents Meet World Models: A Survey},
-  author        = {AI Agent Team},
+  author        = {Yuhan Chen and Pengzhi Gao and Qinzhuo Wu and Kun Huang and Yike Liu and Kun Shao and Jian Luan and Heng Qu},
   year          = {2026},
-  eprint        = {XXXX.XXXXX},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.AI},
-  url           = {https://arxiv.org/abs/XXXX.XXXXX}
+  url           = {https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents}
 }
 ```
