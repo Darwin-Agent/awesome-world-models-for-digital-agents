@@ -237,7 +237,7 @@ If you find this resource useful, please cite our survey:
 ```bibtex
 @article{chen2026digitalagentsworldmodels,
   title         = {Digital Agents Meet World Models: A Survey},
-  author        = {Yuhan Chen and Pengzhi Gao and Qinzhuo Wu and Kun Huang and Yike Liu and Kun Shao and Jian Luan and Heng Qu},
+  author        = {Yuhan Chen and Pengzhi Gao and Qinzhuo Wu and Kun Huang and Yike Liu and Heng Qu and Kun Shao and Jian Luan},
   year          = {2026},
   url           = {https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents}
 }
