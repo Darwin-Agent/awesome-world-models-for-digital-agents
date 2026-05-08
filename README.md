@@ -6,14 +6,14 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
 
-> **📢 News & Updates**
->
-> - **2026-05** — We release [**Digital Agents Meet World Models: A Survey**](paper.pdf), a comprehensive survey covering 100+ papers on world models for digital agents across games, web & GUI, tool use, and code. arXiv link coming soon!
-> - **2026-05** — Repository launched with taxonomy-aligned paper list organized by the unified design space **W = (X, L, U)**.
-
 This repository accompanies [**Digital Agents Meet World Models: A Survey**](paper.pdf), providing a taxonomy-aligned bibliography of cited works and representative systems across games, web & GUI, tool-use, and code domains. The survey introduces a unified agent-centric design space **W = (X, L, U)**, organized around what is modeled, how predictive capability is built, and how world models are used inside the agent loop.
 
 Papers are grouped by domain and listed in reverse chronological order within each subsection to support literature navigation, comparison, and ongoing updates.
+
+## 📢 News & Updates
+
+- **2026-05** — We release [**Digital Agents Meet World Models: A Survey**](paper.pdf), a comprehensive survey covering 100+ papers on world models for digital agents across games, web & GUI, tool use, and code. arXiv link coming soon!
+- **2026-05** — Repository launched with taxonomy-aligned paper list organized by the unified design space **W = (X, L, U)**.
 
 ## Table of Contents <!-- omit in toc -->
 
