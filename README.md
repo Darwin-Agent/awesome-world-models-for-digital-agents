@@ -17,7 +17,7 @@ Papers are listed in reverse chronological order within each section.
 
 ## Table of Contents <!-- omit in toc -->
 
-- [🗂️ Taxonomy Overview](#-taxonomy-overview)
+- [🗂️ Taxonomy Overview](#%EF%B8%8F-taxonomy-overview)
 - [🎮 Games](#-games)
 - [🌐 Web \& GUI](#-web--gui)
 - [🔧 Tool Use](#-tool-use)
