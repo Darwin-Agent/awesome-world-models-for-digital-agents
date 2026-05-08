@@ -13,7 +13,7 @@ Papers are grouped by domain and listed in reverse chronological order within ea
 ## 📢 News & Updates
 
 - **2026-05** — We release [**Digital Agents Meet World Models: A Survey**](paper.pdf), a comprehensive survey covering 100+ papers on world models for digital agents across games, web & GUI, tool use, and code. arXiv link coming soon!
-- **2026-05** — Repository launched with taxonomy-aligned paper list organized by the unified design space **W = (X, L, U)**.
+- **2026-04** — Repo is live! 100+ papers on world models for digital agents, organized by domain.
 
 ## Table of Contents <!-- omit in toc -->
 
