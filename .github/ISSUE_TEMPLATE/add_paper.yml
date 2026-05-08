@@ -27,20 +27,20 @@ body:
       required: true
 
   - type: input
-    id: section
-    attributes:
-      label: Target Section
-      description: Which section should this paper be listed under?
-      placeholder: 'e.g., Games, Web & GUI, Tool Use, Code, Benchmarks & Environments'
-    validations:
-      required: true
-
-  - type: input
     id: venue
     attributes:
       label: Venue and Year
       description: Publication venue and year.
       placeholder: e.g., ICLR, 2025
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: Target Section
+      description: Which section should this paper be listed under?
+      placeholder: 'e.g., Games, Web & GUI, Tool Use, Code, Benchmarks & Environments'
     validations:
       required: true
 
