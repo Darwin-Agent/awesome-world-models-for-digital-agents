@@ -145,6 +145,7 @@ Representative interactive benchmarks and environments for evaluating world mode
 
 ### Games
 
++ [**GameWorld**](https://arxiv.org/abs/2604.07429) (arXiv, 2026) — Browser-game agent benchmark with state-verifiable outcome metrics across 34 games and 170 tasks. [[GitHub]](https://github.com/gameworld-project/gameworld)
 + [**PlanCraft**](https://arxiv.org/abs/2412.21033) (COLM, 2025) — Structured planning over branching crafting dependencies. [[GitHub]](https://github.com/gautierdag/plancraft)
 + [**Minigrid**](https://arxiv.org/abs/2306.13831) (NeurIPS, 2023) — Compact planning under partially observable gridworld dynamics. [[GitHub]](https://github.com/Farama-Foundation/Minigrid)
 + [**SMACv2**](https://arxiv.org/abs/2212.07489) (NeurIPS, 2023) — Harder stochastic branching and robust multi-agent rollout. [[GitHub]](https://github.com/oxwhirl/smacv2)
