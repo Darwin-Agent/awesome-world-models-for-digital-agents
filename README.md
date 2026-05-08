@@ -240,7 +240,7 @@ When submitting, please include:
 - **Target section** (Games / Web & GUI / Tool Use / Code / Benchmarks)
 - **One-line summary** of the contribution
 - **Code URL** (optional, for GitHub link)
-- **Suggested README entry** (optional, formatted as `+ [**Name**](url) (Venue, Year) — Description.`)
+- **Suggested README entry** (optional)
 
 ## 📖 Citation
 
