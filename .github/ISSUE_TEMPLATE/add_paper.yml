@@ -26,20 +26,12 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: input
     id: section
     attributes:
       label: Section
       description: Which section should this paper be listed under?
-      options:
-        - Games
-        - World Model Theory & Analysis
-        - Web & GUI
-        - Tool Use
-        - Code
-        - Benchmarks & Environments
-        - Datasets
-        - Related Surveys
+      placeholder: 'e.g., Games, Web & GUI, Tool Use, Code, Benchmarks & Environments'
     validations:
       required: true
 
