@@ -72,7 +72,10 @@ World models for game environments, including classical model-based RL, visual g
 
 + [**Neuro-Symbolic Synergy**](https://arxiv.org/abs/2602.10480) (arXiv, 2026) — Neuro-symbolic synergy for interactive world modeling. [[GitHub]](https://github.com/tianyi-lab/NeSyS)
 + [**Current Agents Fail to Leverage WM**](https://arxiv.org/abs/2601.03905) (ACL, 2026) — Negative evidence on agents using world models as foresight tools.
++ [**SafetyDrift**](https://arxiv.org/abs/2603.27148) (arXiv, 2026) — Predicting when AI agents cross the line before they actually do.
 + [**General Agents Contain World Models**](https://arxiv.org/abs/2506.01622) (ICML, 2025) — Theoretical result on world models in general agents.
++ [**RAFA**](https://arxiv.org/abs/2309.17382) (ICML, 2024) — LLM as world model for principled look-ahead planning in autonomous agents.
++ [**LAW**](https://arxiv.org/abs/2312.05230) (arXiv, 2023) — Language models, agent models, and world models: a framework for machine reasoning and planning.
 
 ## 🌐 Web & GUI
 
@@ -142,9 +145,10 @@ Representative interactive benchmarks and environments for evaluating world mode
 
 + [**PlanCraft**](https://arxiv.org/abs/2412.21033) (COLM, 2025) — Structured planning over branching crafting dependencies. [[GitHub]](https://github.com/gautierdag/plancraft)
 + [**Minigrid**](https://arxiv.org/abs/2306.13831) (NeurIPS, 2023) — Compact planning under partially observable gridworld dynamics. [[GitHub]](https://github.com/Farama-Foundation/Minigrid)
++ [**MineDojo**](https://arxiv.org/abs/2206.08853) (NeurIPS, 2022) — Open-ended embodied agents with internet-scale knowledge in Minecraft. [[GitHub]](https://github.com/MineDojo/MineDojo)
 + [**SMACv2**](https://arxiv.org/abs/2212.07489) (NeurIPS, 2023) — Harder stochastic branching and robust multi-agent rollout. [[GitHub]](https://github.com/oxwhirl/smacv2)
 + [**ScienceWorld**](https://arxiv.org/abs/2203.07540) (EMNLP, 2022) — Causal reasoning over structured textual world state. [[GitHub]](https://github.com/allenai/ScienceWorld)
-+ [**Atari 100k**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — Sample-efficient rollout learning from limited data. [[GitHub]](https://github.com/YeWR/EfficientZero)
++ [**Atari 100k**](https://arxiv.org/abs/1903.00374) (arXiv, 2019) — Model-based RL benchmark with 100k interaction steps per game. [[GitHub]](https://github.com/YeWR/EfficientZero)
 + [**MiniHack**](https://arxiv.org/abs/2109.13202) (NeurIPS, 2021) — Modular long-horizon transition modeling across diverse tasks. [[GitHub]](https://github.com/NetHack-LE/minihack)
 + [**Crafter**](https://arxiv.org/abs/2109.06780) (ICLR, 2022) — Persistent survival-state dynamics and open-ended progression. [[GitHub]](https://github.com/danijar/crafter)
 + [**ALFWorld**](https://arxiv.org/abs/2010.03768) (ICLR, 2021) — Multi-step symbolic planning with delayed consequences. [[GitHub]](https://github.com/alfworld/alfworld)
@@ -184,7 +188,6 @@ Representative interactive benchmarks and environments for evaluating world mode
 
 + [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Software-engineering transitions with surrogate environment feedback. [[GitHub]](https://github.com/RUCAIBox/SWE-World)
 + [**SWE-bench**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Repository-scale state evolution under code edits and tests. [[GitHub]](https://github.com/swe-bench/SWE-bench)
-+ [**SWE-bench Verified**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Verified long-horizon software issue resolution with execution feedback. [[GitHub]](https://github.com/swe-bench/SWE-bench)
 + [**InterCode**](https://arxiv.org/abs/2306.14898) (NeurIPS, 2023) — Interactive coding dynamics with stepwise execution feedback. [[GitHub]](https://github.com/princeton-nlp/intercode)
 + [**HumanEval**](https://arxiv.org/abs/2107.03374) (arXiv, 2021) — Executable outcome prediction for code generation. [[GitHub]](https://github.com/openai/human-eval)
 
