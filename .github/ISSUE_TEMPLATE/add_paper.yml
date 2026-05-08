@@ -20,7 +20,7 @@ body:
   - type: input
     id: link
     attributes:
-      label: Link (arXiv / PDF)
+      label: Paper URL
       description: URL to the paper (preferably arXiv abstract page).
       placeholder: 'https://arxiv.org/abs/2411.06559'
     validations:
