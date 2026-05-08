@@ -63,15 +63,15 @@ World models for game environments, including classical model-based RL, visual g
 
 ### Text-Interactive Worlds
 
-+ [**From Word to World**](https://arxiv.org/abs/2512.18832) (arXiv, 2025) — Evaluating LLMs as implicit text-based world models. [[GitHub]](https://github.com/X1AOX1A/Word2World)
-+ [**WALL-E 2.0**](https://arxiv.org/abs/2504.15785) (arXiv, 2025) — Neuro-symbolic world alignment for text-world planning. [[GitHub]](https://github.com/elated-sawyer/WALL-E)
++ [**From Word to World**](https://arxiv.org/abs/2512.18832) (ACL, 2026) — Evaluating LLMs as implicit text-based world models. [[GitHub]](https://github.com/X1AOX1A/Word2World)
++ [**WALL-E 2.0**](https://arxiv.org/abs/2504.15785) (NeurIPS, 2025) — Neuro-symbolic world alignment for text-world planning. [[GitHub]](https://github.com/elated-sawyer/WALL-E)
 + [**WALL-E 1.0**](https://arxiv.org/abs/2410.07484) (arXiv, 2024) — Rule-aligned world model for LLM agents in text environments. [[GitHub]](https://github.com/elated-sawyer/WALL-E)
 + [**RAP**](https://arxiv.org/abs/2305.14992) (EMNLP, 2023) — Reasoning with language model is planning with world model. [[GitHub]](https://github.com/Ber666/RAP)
 
 ### World Model Theory & Analysis
 
 + [**Neuro-Symbolic Synergy**](https://arxiv.org/abs/2602.10480) (arXiv, 2026) — Neuro-symbolic synergy for interactive world modeling. [[GitHub]](https://github.com/tianyi-lab/NeSyS)
-+ [**Current Agents Fail to Leverage WM**](https://arxiv.org/abs/2601.03905) (arXiv, 2026) — Negative evidence on agents using world models as foresight tools.
++ [**Current Agents Fail to Leverage WM**](https://arxiv.org/abs/2601.03905) (ACL, 2026) — Negative evidence on agents using world models as foresight tools.
 + [**General Agents Contain World Models**](https://arxiv.org/abs/2506.01622) (ICML, 2025) — Theoretical result on world models in general agents.
 
 ## 🌐 Web & GUI
@@ -85,7 +85,7 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 + [**DynaWeb**](https://arxiv.org/abs/2601.22149) (arXiv, 2026) — Model-based reinforcement learning of web agents.
 + [**WebWM**](https://arxiv.org/abs/2512.23676) (arXiv, 2025) — Web World Models; semantic HTML delta prediction.
 + [**WebSynthesis**](https://arxiv.org/abs/2507.04370) (arXiv, 2025) — World-model-guided MCTS for efficient WebUI-trajectory synthesis. [[GitHub]](https://github.com/LucusFigoGao/WebSynthesis)
-+ [**WebEvolver**](https://arxiv.org/abs/2504.21024) (arXiv, 2025) — Enhancing web agent self-improvement with coevolving world model. [[GitHub]](https://github.com/Tencent/SelfEvolvingAgent)
++ [**WebEvolver**](https://arxiv.org/abs/2504.21024) (EMNLP, 2025) — Enhancing web agent self-improvement with coevolving world model. [[GitHub]](https://github.com/Tencent/SelfEvolvingAgent)
 + [**WebDreamer**](https://arxiv.org/abs/2411.06559) (TMLR, 2025) — LLM web state simulation + tree search for planning. [[GitHub]](https://github.com/OSU-NLP-Group/WebDreamer)
 + [**WMA Web Agent**](https://arxiv.org/abs/2410.13232) (ICLR, 2025) — Learning and leveraging environment dynamics in web navigation. [[GitHub]](https://github.com/kyle8581/WMA-Agents)
 
@@ -93,25 +93,25 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 
 + [**Computer-Using World Model**](https://arxiv.org/abs/2602.17365) (arXiv, 2026) — LLM-based UI state delta prediction for action search.
 + [**SafePred**](https://arxiv.org/abs/2602.01725) (arXiv, 2026) — Predictive guardrail for computer-using agents via world models. [[GitHub]](https://github.com/YurunChen/SafePred)
-+ [**R-WoM**](https://arxiv.org/abs/2510.11892) (arXiv, 2025) — Retrieval-augmented world model for computer-use agents.
-+ [**NeuralOS**](https://arxiv.org/abs/2507.08800) (arXiv, 2025) — RNN + pixel diffusion for operating system simulation. [[GitHub]](https://github.com/yuntian-group/neural-os)
++ [**R-WoM**](https://arxiv.org/abs/2510.11892) (ICLR, 2026) — Retrieval-augmented world model for computer-use agents.
++ [**NeuralOS**](https://arxiv.org/abs/2507.08800) (ICLR, 2026) — RNN + pixel diffusion for operating system simulation. [[GitHub]](https://github.com/yuntian-group/neural-os)
 
 ### GUI — Mobile
 
 + [**Code2World**](https://arxiv.org/abs/2602.09856) (arXiv, 2026) — GUI world model via renderable code generation. [[GitHub]](https://github.com/AMAP-ML/Code2World)
 + [**GEBench**](https://arxiv.org/abs/2602.09007) (arXiv, 2026) — Benchmarking image generation models as GUI environments. [[GitHub]](https://github.com/stepfun-ai/GEBench)
 + [**gWorld**](https://arxiv.org/abs/2602.01576) (arXiv, 2026) — Generative visual code for mobile world modeling. [[GitHub]](https://github.com/trillion-labs/gWorld)
-+ [**MobileDreamer**](https://arxiv.org/abs/2601.04035) (arXiv, 2026) — Generative sketch world model for GUI agents.
-+ [**MobileWorldBench**](https://arxiv.org/abs/2512.14014) (arXiv, 2025) — Towards semantic world modeling for mobile agents. [[GitHub]](https://github.com/jacklishufan/MobileWorld)
-+ [**UISim**](https://arxiv.org/abs/2509.21733) (arXiv, 2025) — Interactive image-based UI simulator for dynamic mobile environments.
-+ [**ViMo**](https://arxiv.org/abs/2504.13936) (arXiv, 2025) — Generative visual GUI world model for app agents.
++ [**MobileDreamer**](https://arxiv.org/abs/2601.04035) (ICLR, 2026) — Generative sketch world model for GUI agents.
++ [**MobileWorldBench**](https://arxiv.org/abs/2512.14014) (COLM, 2025) — Towards semantic world modeling for mobile agents. [[GitHub]](https://github.com/jacklishufan/MobileWorld)
++ [**UISim**](https://arxiv.org/abs/2509.21733) (NeurIPS Workshop, 2025) — Interactive image-based UI simulator for dynamic mobile environments.
++ [**ViMo**](https://arxiv.org/abs/2504.13936) (ICLR, 2026) — Generative visual GUI world model for app agents.
 
 ### Cross-Domain GUI/Web
 
 + [**World Craft**](https://arxiv.org/abs/2601.09150) (arXiv, 2026) — Agentic framework to create visualizable worlds via text. [[GitHub]](https://github.com/HerzogFL/World-Craft)
-+ [**VAGEN**](https://arxiv.org/abs/2510.16907) (arXiv, 2025) — Reinforcing world model reasoning for multi-turn VLM agents. [[GitHub]](https://github.com/mll-lab-nu/VAGEN)
++ [**VAGEN**](https://arxiv.org/abs/2510.16907) (NeurIPS, 2025) — Reinforcing world model reasoning for multi-turn VLM agents. [[GitHub]](https://github.com/mll-lab-nu/VAGEN)
 + [**SimuRA**](https://arxiv.org/abs/2507.23773) (arXiv, 2025) — World-model-driven simulative reasoning architecture for general goal-oriented agents.
-+ [**EvoAgent**](https://arxiv.org/abs/2502.05907) (arXiv, 2025) — Self-evolving agent with continual world model for long-horizon tasks. [[GitHub]](https://github.com/fengtt42/EvoAgent)
++ [**EvoAgent**](https://arxiv.org/abs/2502.05907) (ICLR, 2026) — Self-evolving agent with continual world model for long-horizon tasks. [[GitHub]](https://github.com/fengtt42/EvoAgent)
 + [**WorldGPT**](https://doi.org/10.1145/3664647.3681488) (ACM MM, 2024) — Empowering LLMs as multimodal world models. [[GitHub]](https://github.com/DCDmllm/WorldGPT)
 
 ## 🔧 Tool Use
@@ -131,7 +131,7 @@ World models for code generation, software engineering, and executable environme
 
 + [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Building software engineering agents in docker-free environments. [[GitHub]](https://github.com/RUCAIBox/SWE-World)
 + [**CWM**](https://arxiv.org/abs/2510.02387) (arXiv, 2025) — Open-weights LLM for research on code generation with world models. [[GitHub]](https://github.com/facebookresearch/cwm)
-+ [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by Monte Carlo tree search. [[GitHub]](https://github.com/nicoladainese96/code-world-models)
++ [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (NeurIPS, 2024) — Generating code world models with LLMs guided by Monte Carlo tree search. [[GitHub]](https://github.com/nicoladainese96/code-world-models)
 + [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code and interacting with the environment. [[GitHub]](https://github.com/haotang1995/WorldCoder)
 
 ## 🏋️ Benchmarks & Environments
@@ -140,13 +140,13 @@ Representative interactive benchmarks and environments for evaluating world mode
 
 ### Games
 
-+ [**PlanCraft**](https://arxiv.org/abs/2412.21033) (arXiv, 2024) — Structured planning over branching crafting dependencies. [[GitHub]](https://github.com/gautierdag/plancraft)
-+ [**Minigrid**](https://arxiv.org/abs/2306.13831) (arXiv, 2023) — Compact planning under partially observable gridworld dynamics. [[GitHub]](https://github.com/Farama-Foundation/Minigrid)
-+ [**SMACv2**](https://arxiv.org/abs/2212.07489) (arXiv, 2022) — Harder stochastic branching and robust multi-agent rollout. [[GitHub]](https://github.com/oxwhirl/smacv2)
++ [**PlanCraft**](https://arxiv.org/abs/2412.21033) (COLM, 2025) — Structured planning over branching crafting dependencies. [[GitHub]](https://github.com/gautierdag/plancraft)
++ [**Minigrid**](https://arxiv.org/abs/2306.13831) (NeurIPS, 2023) — Compact planning under partially observable gridworld dynamics. [[GitHub]](https://github.com/Farama-Foundation/Minigrid)
++ [**SMACv2**](https://arxiv.org/abs/2212.07489) (NeurIPS, 2023) — Harder stochastic branching and robust multi-agent rollout. [[GitHub]](https://github.com/oxwhirl/smacv2)
 + [**ScienceWorld**](https://arxiv.org/abs/2203.07540) (EMNLP, 2022) — Causal reasoning over structured textual world state. [[GitHub]](https://github.com/allenai/ScienceWorld)
 + [**Atari 100k**](https://arxiv.org/abs/2111.00210) (NeurIPS, 2021) — Sample-efficient rollout learning from limited data. [[GitHub]](https://github.com/YeWR/EfficientZero)
-+ [**MiniHack**](https://arxiv.org/abs/2109.13202) (arXiv, 2021) — Modular long-horizon transition modeling across diverse tasks. [[GitHub]](https://github.com/NetHack-LE/minihack)
-+ [**Crafter**](https://arxiv.org/abs/2109.06780) (arXiv, 2021) — Persistent survival-state dynamics and open-ended progression. [[GitHub]](https://github.com/danijar/crafter)
++ [**MiniHack**](https://arxiv.org/abs/2109.13202) (NeurIPS, 2021) — Modular long-horizon transition modeling across diverse tasks. [[GitHub]](https://github.com/NetHack-LE/minihack)
++ [**Crafter**](https://arxiv.org/abs/2109.06780) (ICLR, 2022) — Persistent survival-state dynamics and open-ended progression. [[GitHub]](https://github.com/danijar/crafter)
 + [**ALFWorld**](https://arxiv.org/abs/2010.03768) (ICLR, 2021) — Multi-step symbolic planning with delayed consequences. [[GitHub]](https://github.com/alfworld/alfworld)
 + [**NetHack**](https://arxiv.org/abs/2006.13760) (NeurIPS, 2020) — Partial observability and long-horizon symbolic-visual state tracking. [[GitHub]](https://github.com/NetHack-LE/nle)
 + [**Procgen**](https://arxiv.org/abs/1912.01588) (ICML, 2020) — Generalization under procedurally varying dynamics. [[GitHub]](https://github.com/openai/procgen)
@@ -158,16 +158,16 @@ Representative interactive benchmarks and environments for evaluating world mode
 ### Web & GUI
 
 + [**MobileWorld**](https://arxiv.org/abs/2512.19432) (arXiv, 2025) — Mobile workflows with user interaction and MCP-augmented tasks. [[GitHub]](https://github.com/Tongyi-MAI/MobileWorld)
-+ [**GUI-360°**](https://arxiv.org/abs/2511.04307) (arXiv, 2025) — Comprehensive dataset and benchmark for computer-using agents. [[GitHub]](https://github.com/2020-qqtcg/GUI-360)
-+ [**TheAgentCompany**](https://arxiv.org/abs/2412.14161) (arXiv, 2024) — Enterprise-style browser workflows and hidden application logic. [[GitHub]](https://github.com/TheAgentCompany/TheAgentCompany)
-+ [**WindowsAgentArena**](https://arxiv.org/abs/2409.08264) (arXiv, 2024) — Real multi-app state coordination under desktop interaction. [[GitHub]](https://github.com/microsoft/WindowsAgentArena)
-+ [**AndroidWorld**](https://arxiv.org/abs/2405.14573) (arXiv, 2024) — Dynamic mobile UI transitions under touch interaction. [[GitHub]](https://github.com/google-research/android_world)
-+ [**OSWorld**](https://arxiv.org/abs/2404.07972) (arXiv, 2024) — Open-ended computer-use transitions across apps and OS state. [[GitHub]](https://github.com/xlang-ai/OSWorld)
-+ [**OmniACT**](https://arxiv.org/abs/2402.17553) (arXiv, 2024) — Executable computer-use actions with cross-platform UI effects. [[Website]](https://huggingface.co/datasets/Writer/omniact)
-+ [**VisualWebArena**](https://arxiv.org/abs/2401.13649) (arXiv, 2024) — Multimodal web-state prediction with visual-semantic grounding. [[GitHub]](https://github.com/web-arena-x/visualwebarena)
++ [**GUI-360°**](https://arxiv.org/abs/2511.04307) (ICLR, 2026) — Comprehensive dataset and benchmark for computer-using agents. [[GitHub]](https://github.com/2020-qqtcg/GUI-360)
++ [**TheAgentCompany**](https://arxiv.org/abs/2412.14161) (NeurIPS, 2025) — Enterprise-style browser workflows and hidden application logic. [[GitHub]](https://github.com/TheAgentCompany/TheAgentCompany)
++ [**WindowsAgentArena**](https://arxiv.org/abs/2409.08264) (ICML, 2025) — Real multi-app state coordination under desktop interaction. [[GitHub]](https://github.com/microsoft/WindowsAgentArena)
++ [**AndroidWorld**](https://arxiv.org/abs/2405.14573) (ICLR, 2025) — Dynamic mobile UI transitions under touch interaction. [[GitHub]](https://github.com/google-research/android_world)
++ [**OSWorld**](https://arxiv.org/abs/2404.07972) (NeurIPS, 2024) — Open-ended computer-use transitions across apps and OS state. [[GitHub]](https://github.com/xlang-ai/OSWorld)
++ [**OmniACT**](https://arxiv.org/abs/2402.17553) (ECCV, 2024) — Executable computer-use actions with cross-platform UI effects. [[Website]](https://huggingface.co/datasets/Writer/omniact)
++ [**VisualWebArena**](https://arxiv.org/abs/2401.13649) (ACL, 2024) — Multimodal web-state prediction with visual-semantic grounding. [[GitHub]](https://github.com/web-arena-x/visualwebarena)
 + [**WebArena**](https://arxiv.org/abs/2307.13854) (ICLR, 2024) — Semantic UI transitions under realistic web workflows. [[GitHub]](https://github.com/web-arena-x/webarena)
 + [**WebShop**](https://arxiv.org/abs/2207.01206) (NeurIPS, 2022) — Workflow branching and latent task progress in shopping interfaces. [[GitHub]](https://github.com/princeton-nlp/WebShop)
-+ [**MiniWoB++**](https://arxiv.org/abs/1802.08802) (arXiv, 2018) — Short-horizon UI changes with typed web actions. [[GitHub]](https://github.com/Farama-Foundation/miniwob-plusplus)
++ [**MiniWoB++**](https://arxiv.org/abs/1802.08802) (ICLR, 2018) — Short-horizon UI changes with typed web actions. [[GitHub]](https://github.com/Farama-Foundation/miniwob-plusplus)
 + [**World of Bits**](https://proceedings.mlr.press/v70/shi17a.html) (ICML, 2017) — Open-domain web-state transitions under interface interaction.
 
 ### Tool Use
@@ -178,20 +178,20 @@ Representative interactive benchmarks and environments for evaluating world mode
 + [**MCP-Universe**](https://arxiv.org/abs/2508.14704) (arXiv, 2025) — Multi-server tool coordination and external-state mutation. [[GitHub]](https://github.com/SalesforceAIResearch/MCP-Universe)
 + [**τ²-bench**](https://arxiv.org/abs/2506.07982) (arXiv, 2025) — Multi-party control and persistent tool-state consistency. [[GitHub]](https://github.com/sierra-research/tau2-bench)
 + [**BFCL v3**](https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html) (ICML, 2025) — Multi-turn function-call validity and argument correctness. [[GitHub]](https://github.com/ShishirPatil/gorilla)
-+ [**τ-bench**](https://arxiv.org/abs/2406.12045) (arXiv, 2024) — Typed tool-state updates in tool-agent-user interaction. [[GitHub]](https://github.com/sierra-research/tau-bench)
++ [**τ-bench**](https://arxiv.org/abs/2406.12045) (ICLR, 2025) — Typed tool-state updates in tool-agent-user interaction. [[GitHub]](https://github.com/sierra-research/tau-bench)
 
 ### Code
 
 + [**SWE-World**](https://arxiv.org/abs/2602.03419) (arXiv, 2026) — Software-engineering transitions with surrogate environment feedback. [[GitHub]](https://github.com/RUCAIBox/SWE-World)
 + [**SWE-bench**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Repository-scale state evolution under code edits and tests. [[GitHub]](https://github.com/swe-bench/SWE-bench)
 + [**SWE-bench Verified**](https://arxiv.org/abs/2310.06770) (ICLR, 2024) — Verified long-horizon software issue resolution with execution feedback. [[GitHub]](https://github.com/swe-bench/SWE-bench)
-+ [**InterCode**](https://arxiv.org/abs/2306.14898) (arXiv, 2023) — Interactive coding dynamics with stepwise execution feedback. [[GitHub]](https://github.com/princeton-nlp/intercode)
++ [**InterCode**](https://arxiv.org/abs/2306.14898) (NeurIPS, 2023) — Interactive coding dynamics with stepwise execution feedback. [[GitHub]](https://github.com/princeton-nlp/intercode)
 + [**HumanEval**](https://arxiv.org/abs/2107.03374) (arXiv, 2021) — Executable outcome prediction for code generation. [[GitHub]](https://github.com/openai/human-eval)
 
 ### Multi-Domain
 
-+ [**AgentGym**](https://arxiv.org/abs/2406.04151) (arXiv, 2024) — Transfer of predictive abstractions across heterogeneous environments. [[GitHub]](https://github.com/WooooDyy/AgentGym)
-+ [**AgentBench**](https://arxiv.org/abs/2308.03688) (arXiv, 2023) — Cross-domain comparison of agent behavior and predictive utility. [[GitHub]](https://github.com/THUDM/AgentBench)
++ [**AgentGym**](https://arxiv.org/abs/2406.04151) (ACL, 2025) — Transfer of predictive abstractions across heterogeneous environments. [[GitHub]](https://github.com/WooooDyy/AgentGym)
++ [**AgentBench**](https://arxiv.org/abs/2308.03688) (ICLR, 2024) — Cross-domain comparison of agent behavior and predictive utility. [[GitHub]](https://github.com/THUDM/AgentBench)
 
 ## 📊 Datasets
 
@@ -222,7 +222,7 @@ Surveys on world models, autonomous agents, and related topics that provide comp
 + [**A Survey of World Models for Autonomous Driving**](https://arxiv.org/abs/2501.11260) (arXiv, 2025)
 + [**Understanding World or Predicting Future? A Comprehensive Survey of World Models**](https://arxiv.org/abs/2411.14499) (ACM CSUR, 2025)
 + [**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**](https://arxiv.org/abs/2405.03520) (arXiv, 2024)
-+ [**A Survey on Large Language Model Based Autonomous Agents**](https://arxiv.org/abs/2308.11432) (Frontiers, 2023)
++ [**A Survey on Large Language Model Based Autonomous Agents**](https://arxiv.org/abs/2308.11432) (Frontiers, 2024)
 
 ## 🤝 Contributing
 
