@@ -12,7 +12,7 @@ Papers are listed in reverse chronological order within each section.
 
 ## 📢 News & Updates
 
-- **2026-05** — Survey paper is out! Check out [**Digital Agents Meet World Models**](paper.pdf) (100+ papers covered). arXiv link coming soon!
+- **2026-05** — Survey paper is out! Check out [**Digital Agents Meet World Models: A Survey**](paper.pdf) (100+ papers covered). arXiv link coming soon!
 - **2026-04** — Repo is live! 100+ papers on world models for digital agents, organized by domain.
 
 ## Table of Contents <!-- omit in toc -->
