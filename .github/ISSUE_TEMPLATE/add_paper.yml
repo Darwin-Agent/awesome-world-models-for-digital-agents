@@ -63,6 +63,15 @@ body:
       required: false
 
   - type: textarea
+    id: entry
+    attributes:
+      label: Suggested README Entry (Optional)
+      description: Suggest how the entry should appear in the README.
+      placeholder: '+ [**Name**](url) (Venue, Year) — One-line description. [[GitHub]](repo-url)'
+    validations:
+      required: false
+
+  - type: textarea
     id: comment
     attributes:
       label: Additional Comments
