@@ -13,7 +13,7 @@ body:
     attributes:
       label: Paper Title
       description: The full title of the paper.
-      placeholder: e.g., "WebDreamer: Is Your LLM Secretly a World Model of the Internet?"
+      placeholder: 'e.g., WebDreamer: Is Your LLM Secretly a World Model of the Internet?'
     validations:
       required: true
 
@@ -22,7 +22,7 @@ body:
     attributes:
       label: Link (arXiv / PDF)
       description: URL to the paper (preferably arXiv abstract page).
-      placeholder: https://arxiv.org/abs/2411.06559
+      placeholder: 'https://arxiv.org/abs/2411.06559'
     validations:
       required: true
 
@@ -66,7 +66,7 @@ body:
     attributes:
       label: Code Link (Optional)
       description: GitHub URL if available.
-      placeholder: https://github.com/org/repo
+      placeholder: 'https://github.com/org/repo'
     validations:
       required: false
 
