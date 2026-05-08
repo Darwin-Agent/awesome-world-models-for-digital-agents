@@ -6,9 +6,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
 
-This repository accompanies [**Digital Agents Meet World Models: A Survey**](paper.pdf), providing a taxonomy-aligned bibliography of cited works and representative systems across games, web & GUI, tool-use, and code domains. The survey introduces a unified agent-centric design space **W = (X, L, U)**, organized around what is modeled, how predictive capability is built, and how world models are used inside the agent loop.
+A curated list of world models for digital agents across games, web & GUI, tool use, and code. Papers are organized around the unified design space **W = (X, L, U)** — what is modeled (**X**), how it is built (**L**), and how it is used by the agent (**U**).
 
-Papers are grouped by domain and listed in reverse chronological order within each subsection to support literature navigation, comparison, and ongoing updates.
+Papers are listed in reverse chronological order within each section.
 
 ## 📢 News & Updates
 
