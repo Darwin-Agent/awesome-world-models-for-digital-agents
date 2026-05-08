@@ -47,7 +47,7 @@ body:
   - type: input
     id: summary
     attributes:
-      label: One-Line Summary
+      label: One-line Summary
       description: A concise description of the paper's contribution.
       placeholder: e.g., LLM web state simulation + tree search for planning.
     validations:
