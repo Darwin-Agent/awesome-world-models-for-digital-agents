@@ -6,13 +6,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <!-- omit in toc -->
 
-A curated list of world models for digital agents across games, web & GUI, tool use, and code. Papers are organized around the unified design space **W = (X, L, U)** — what is modeled (**X**), how it is built (**L**), and how it is used by the agent (**U**).
+A curated list of world models for digital agents across games, web & GUI, tool use, and code. Our [survey paper](paper.pdf) introduces a unified design space **W = (X, L, U)** — what is modeled (**X**), how it is built (**L**), and how it is used by the agent (**U**).
 
 Papers are listed in reverse chronological order within each section.
 
 ## 📢 News & Updates
 
-- **2026-05** — Survey paper is out! Check out [**Digital Agents Meet World Models: A Survey**](paper.pdf) (100+ papers covered). arXiv link coming soon!
+- **2026-05** — Survey paper is out! Check out [**Digital Agents Meet World Models: A Survey**](paper.pdf). arXiv link coming soon!
 - **2026-04** — Repo is live! 100+ papers on world models for digital agents, organized by domain.
 
 ## Table of Contents <!-- omit in toc -->
