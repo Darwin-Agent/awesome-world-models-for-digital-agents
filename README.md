@@ -12,18 +12,18 @@ Papers are grouped by domain and listed in reverse chronological order within ea
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Taxonomy Overview](#taxonomy-overview)
-- [Games](#games)
-- [Web \& GUI](#web--gui)
-- [Tool Use](#tool-use)
-- [Code](#code)
-- [Benchmarks \& Environments](#benchmarks--environments)
-- [Datasets](#datasets)
-- [Related Surveys](#related-surveys)
-- [Contributing](#contributing)
-- [Citation](#citation)
+- [🗂️ Taxonomy Overview](#-taxonomy-overview)
+- [🎮 Games](#-games)
+- [🌐 Web \& GUI](#-web--gui)
+- [🔧 Tool Use](#-tool-use)
+- [💻 Code](#-code)
+- [🏋️ Benchmarks \& Environments](#%EF%B8%8F-benchmarks--environments)
+- [📊 Datasets](#-datasets)
+- [📚 Related Surveys](#-related-surveys)
+- [🤝 Contributing](#-contributing)
+- [📖 Citation](#-citation)
 
-## Taxonomy Overview
+## 🗂️ Taxonomy Overview
 
 The survey organizes world models for digital agents along a unified design space **W = (X, L, U)**:
 
@@ -33,7 +33,7 @@ The survey organizes world models for digital agents along a unified design spac
 | **L: Learning & System Realization** | *How is it built?* | LLM-based, Visual generative, Latent dynamics, Code-based, Hybrid/modular |
 | **U: Agent-Facing Role** | *How is it used?* | Decision-time planning, Training-time interaction, Predictive verification |
 
-## Games
+## 🎮 Games
 
 World models for game environments, including classical model-based RL, visual game generation, and text-interactive worlds.
 
@@ -69,7 +69,7 @@ World models for game environments, including classical model-based RL, visual g
 + [**Current Agents Fail to Leverage WM**](https://arxiv.org/abs/2601.03905) (arXiv, 2026) — Negative evidence on agents using world models as foresight tools.
 + [**General Agents Contain World Models**](https://arxiv.org/abs/2506.01622) (ICML, 2025) — Theoretical result on world models in general agents.
 
-## Web & GUI
+## 🌐 Web & GUI
 
 World models for web navigation, desktop/mobile GUI interaction, and computer-use agents.
 
@@ -109,7 +109,7 @@ World models for web navigation, desktop/mobile GUI interaction, and computer-us
 + [**EvoAgent**](https://arxiv.org/abs/2502.05907) (arXiv, 2025) — Self-evolving agent with continual world model for long-horizon tasks. [[GitHub]](https://github.com/fengtt42/EvoAgent)
 + [**WorldGPT**](https://doi.org/10.1145/3664647.3681488) (ACM MM, 2024) — Empowering LLMs as multimodal world models. [[GitHub]](https://github.com/DCDmllm/WorldGPT)
 
-## Tool Use
+## 🔧 Tool Use
 
 World models for tool-augmented agents, API interaction, and workflow systems.
 
@@ -120,7 +120,7 @@ World models for tool-augmented agents, API interaction, and workflow systems.
 + [**LLMs as Simulators**](https://arxiv.org/abs/2510.14969) (arXiv, 2025) — LLMs as scalable, general-purpose simulators for evolving digital agent training. [[GitHub]](https://github.com/WadeYin9712/UI-Simulator)
 + [**ToolRM**](https://arxiv.org/abs/2509.11963) (arXiv, 2025) — Outcome reward models for tool-calling LLMs.
 
-## Code
+## 💻 Code
 
 World models for code generation, software engineering, and executable environment modeling.
 
@@ -129,7 +129,7 @@ World models for code generation, software engineering, and executable environme
 + [**Code World Models (GIF-MCTS)**](https://arxiv.org/abs/2405.15383) (arXiv, 2024) — Generating code world models with LLMs guided by Monte Carlo tree search. [[GitHub]](https://github.com/nicoladainese96/code-world-models)
 + [**WorldCoder**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024) — Model-based LLM agent that builds world models by writing code and interacting with the environment. [[GitHub]](https://github.com/haotang1995/WorldCoder)
 
-## Benchmarks & Environments
+## 🏋️ Benchmarks & Environments
 
 Representative interactive benchmarks and environments for evaluating world models in digital-agent settings, organized by domain. Descriptions highlight the primary predictive difficulty each environment introduces.
 
@@ -188,7 +188,7 @@ Representative interactive benchmarks and environments for evaluating world mode
 + [**AgentGym**](https://arxiv.org/abs/2406.04151) (arXiv, 2024) — Transfer of predictive abstractions across heterogeneous environments. [[GitHub]](https://github.com/WooooDyy/AgentGym)
 + [**AgentBench**](https://arxiv.org/abs/2308.03688) (arXiv, 2023) — Cross-domain comparison of agent behavior and predictive utility. [[GitHub]](https://github.com/THUDM/AgentBench)
 
-## Datasets
+## 📊 Datasets
 
 Datasets used to train and evaluate digital-agent world models, organized by supervision type and the role each category plays in the learning pipeline.
 
@@ -201,7 +201,7 @@ Datasets used to train and evaluate digital-agent world models, organized by sup
 | **Large-scale priors and foundation corpora** | [The Stack](https://arxiv.org/abs/2211.15533), [StarCoder Data](https://arxiv.org/abs/2305.06161) | Reusable semantic priors, representation quality, cross-domain generalization |
 | **Synthetic and simulated trajectories** | [WebWorld](https://arxiv.org/abs/2602.14721), [Agent World Model](https://arxiv.org/abs/2602.10090) | Expanding branching coverage, surfacing rare or risky states, planning robustness |
 
-## Related Surveys
+## 📚 Related Surveys
 
 Surveys on world models, autonomous agents, and related topics that provide complementary perspectives to our work.
 
@@ -219,7 +219,7 @@ Surveys on world models, autonomous agents, and related topics that provide comp
 + [**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**](https://arxiv.org/abs/2405.03520) (arXiv, 2024)
 + [**A Survey on Large Language Model Based Autonomous Agents**](https://arxiv.org/abs/2308.11432) (Frontiers, 2023)
 
-## Contributing
+## 🤝 Contributing
 
 **We welcome contributions!** This project is actively maintained. If you know a paper or benchmark that should be listed, please [open an issue](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents/issues/new?template=add_paper.yml) or submit a pull request.
 
@@ -230,7 +230,7 @@ When submitting, please include:
 - **One-line summary** of the contribution
 - **Code URL** (optional, for GitHub link)
 
-## Citation
+## 📖 Citation
 
 If you find this resource useful, please cite our survey:
 
